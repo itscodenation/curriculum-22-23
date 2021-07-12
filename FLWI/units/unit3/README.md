@@ -13,9 +13,8 @@ In this unit, coders will create a Tic Tac Toe game. Users will alternate clicki
 |[**3**](https://docs.google.com/presentation/d/1ze3P_Et5b7ykFsfq16axAqBMSqI27q5hZDjxak1vxXw/edit#slide=id.g5d7d378c35_0_8)| [**3**](https://docs.google.com/presentation/d/1swfbGuuCzljZTLEoHZasaDeNVkWKYd1Hy1SZz2lHdik/edit?usp=sharing) | Apply global and local scope in order to solve a problem                                |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

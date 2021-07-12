@@ -8,9 +8,8 @@
 | [**Project**](https://docs.google.com/presentation/d/1GNZ748f98bMxk69KbAcjLolsz3zCqPF7C9dDauW3RSs/edit#slide=id.g60238f31a5_0_0)|        [**Project**](https://docs.google.com/presentation/d/1ITOkw29FRjHSp8PE4JGBToRq0SO2wdj85Ne3z7i3tp8/edit)         |  45x2   | Create a website that uses conditional statements to control program flow (Group Project) |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

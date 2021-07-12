@@ -15,10 +15,9 @@ In this unit, coders will work in groups to build a project using HTML, CSS, REA
 |[**7**](https://docs.google.com/presentation/d/1G9HODehn_GjHbSUbcbl4gQa67MFNAIcixGs__8I8LZA/edit?usp=sharing)| <ul><li>Pass a function as a prop</li><li>Register an event handler</li><li>Use the React developer Chrome extension for props or state</li></ul>|
 |[**8**]()| <ul><li>Prepare for and practice a project presentation</li></ul>|
 
-----
+---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
-
-----
+---

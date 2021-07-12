@@ -10,9 +10,8 @@
 | [**Project 1**](https://docs.google.com/presentation/d/1PilV8jzNiGVe-ByUSCYC2fBBCxJPtSH-l1cuJRrZa8I/edit#slide=id.g7109220c01_2_0) | [**Project 1**](https://docs.google.com/presentation/d/1vxFjykYDMjsrIhhM7VU1-uxQZJZEpCSPlC3mHGEMmN0/edit?usp=sharing) |  45x3   | Use jQuery actions to build an interactive website.                               |
 | [**Optional Review**](https://docs.google.com/presentation/d/13JVMiaZHDTaCAgLrZIMdVCU6OOwl8gWaCOiXNHiRGf8/edit#slide=id.gb0a73d367b_0_693) |N/A |  45   | Review jQuery concepts.                               |
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

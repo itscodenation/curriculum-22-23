@@ -12,9 +12,8 @@
 |[**N/A**]| [**8**](https://docs.google.com/presentation/d/1YnvejbngwlCOwHOdDiXkXNFP0Gmj9KDDE5tFJM00uRQ/edit?usp=sharing) |   45    | Celebrate their technical mastery and showcase exemplar projects.                     |
 |[**9**](https://docs.google.com/presentation/d/1cjqMh99kNO3QNWNsLYEMxup2gCanIAUFlAwjGglRH6U/edit?usp=sharing)|            [**9**](https://docs.google.com/presentation/d/1cjqMh99kNO3QNWNsLYEMxup2gCanIAUFlAwjGglRH6U/edit?usp=sharing)            |   45    | Complete an end of year survey.                                                                                                                                |
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

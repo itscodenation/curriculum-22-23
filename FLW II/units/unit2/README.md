@@ -15,8 +15,9 @@ In this unit, coders will build a Jeopardy project using JavaScript. Students wi
 |[**7**](https://docs.google.com/presentation/d/1aYwrcFLH2A845UeUv_i7KFHnxoD9o9uGzymBtW856I8/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use functions to modify objects</li><li>Explore the Chrome developer tools</li></ul>|
 |[**8**](https://docs.google.com/presentation/d/1J9JtHsnAo59_v7pKVDCUW_39GAsP2aJe7jcJJPPbJsQ/edit#slide=id.g3d4bf58eac_0_10)|<ul><li>Prepare for a presentation in a remote setting</li></ul>| 
 
-----
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
-----
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
+
+---

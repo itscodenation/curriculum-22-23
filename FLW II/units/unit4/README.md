@@ -15,10 +15,9 @@ In this unit, coders will work in pairs to build a project using HTML, CSS, REAC
 |**[7](https://docs.google.com/presentation/d/1dVxyM4E4aDsIei2hL-oEmkP8fXPWD2Igmcc_X31_6SI/edit)**|<ul><li>Use conditionals to draw components and interact with CSS. </li><li>Use loops to generate multiple components on the website. </li> <li>Use unidirectional data flow to pass down data and functions as React props.</li> |
   |**[8]()**|<ul><li>Prepare for and practice a project presentation</li></ul>|
 
-----
+---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
-
-----
+---

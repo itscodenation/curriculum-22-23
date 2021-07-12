@@ -9,9 +9,8 @@
 | [**Project**](https://docs.google.com/presentation/d/1ej4-d193Ca9B9aNRB97NIPEzjHbR391R2R2pnIWvvSo/edit#slide=id.g5bc00daba6_0_0)| [**Project**](https://docs.google.com/presentation/d/1sO0l9sid4Urrx0CWWxMw_WjA5WkYo1M_c4TjnyW5jww/edit?usp=sharing) |  45x2   | Use CSS properties and values, and Google Fonts to style a profile page. (Individual Project) |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

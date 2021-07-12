@@ -9,9 +9,8 @@
 |[**5**](https://docs.google.com/presentation/d/1KvQCmXwFU7mctnPBwXrzepMFzfS81sNlH0qRr_ewm4E/edit?usp=sharing)| [**5**](https://docs.google.com/presentation/d/1LEBT66KZpSxXBXmE9B0WeW4ygxrGqX_xHjBSy3tNZis/edit?usp=sharing) |   45    | Debug their code by using their available resources to find and fix errors. |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

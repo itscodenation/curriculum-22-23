@@ -9,9 +9,8 @@
 |     [**Project 1**](https://docs.google.com/presentation/d/1uk0-7xXQqm7OVCDWhnyZyYC9aZVleQTS_Awp2DCoqgg/edit#slide=id.g9759030f29_0_0)     | [**Project 1**](https://docs.google.com/presentation/d/1ECOHH29CAnQ9DVrPCoShaLFa3DV6D_JrY9dpI-LIFzo/edit?usp=sharing) |  45x2   | Create an original webpage that utilizes layout and positioning skills. (Group Project)  |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

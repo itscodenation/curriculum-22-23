@@ -11,9 +11,8 @@ This professional skills day will focus on volunteers and guests sharing their j
 |[**1**](https://docs.google.com/presentation/d/1sBjUHoERvK9NoEi7DE2xVodCrL-J33wkwm_VLDhB-YM/edit?usp=sharing)| [**1**](https://docs.google.com/presentation/d/1pjJxAECbI3JHDe5lDziybSv4Oa6tyjtxUHvIVE3zIZA/edit#slide=id.g820c845819_0_0) | Use their resources to research and apply for career opportunities and scholarships.<br> Articulate a pathway to a career in technology.<br> Communicate technical knowledge to a non-technical audience<br>Communicate technical knowledge to a technical audience |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

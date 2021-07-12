@@ -6,9 +6,8 @@
 |[**3**](https://docs.google.com/presentation/d/1Vlc-gFej-J6IbIfSVgqScyp-Vz2ORc4tedj1pW0g1oc/edit#slide=id.g24c7339d71_0_167)|[**3**](https://docs.google.com/presentation/d/1TCJnCthP4zXEZIMVnbg6I5-TJV4FYoXDarjluzHRYSY/edit?usp=sharing)|45| Use array methods.|
 |[**Project**](https://docs.google.com/presentation/d/1M0qipl3i9aAO0bQFOD7htfWHAQkSiq5QX_R7omgbQiM/edit#slide=id.g8daab33eb6_1_0)|[**Project**](https://docs.google.com/presentation/d/1phzaNXAZBfDi1SBhEwc9KUzTH6sYSrm4v2w1crrcvec/edit#slide=id.g4e7cce4ed9_1_0)|45x2|Create a website that uses loops to iterate over arrays.(Individual)|
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

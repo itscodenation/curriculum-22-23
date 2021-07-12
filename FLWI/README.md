@@ -20,9 +20,9 @@
 | [**8: EOY Unit**](units/unit8)                                                              | <ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li> <li>Demonstate their technical ability through a HackerRank assessment.</li><li>Deliver an engaing presentation</li> </ul>                                                                                                                                                      |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-<h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-<h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---
 

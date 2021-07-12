@@ -13,9 +13,8 @@ As a result of COVID-19 and the lack of a summer bridge program, students will l
 |[**3**](https://docs.google.com/presentation/d/1UR6woiVGODXF9xzM4exMpjhZ_LCZuYjdH_gy0tUdYzM/edit#slide=id.g89a19f1754_0_1869)| [**3**](https://docs.google.com/presentation/d/1JS7GXjzHGp3W300jNIzKlc2w5rDDqdMPiwu8F2KMXrE/edit#slide=id.g89a19f1754_0_1869) | Use variables and operators to build an interactive website                                                       |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---

@@ -9,9 +9,8 @@
 |[**5**](https://docs.google.com/presentation/d/1nw4BXwERVLzTp1HMJfsX_5XZcm1Vjz6mXJwL2lj_KQU/edit)| [**5**](https://docs.google.com/presentation/d/18XIET48T-vOn6KdUIgck_vbh7MlWc4mafqVuztmxppk/edit?usp=sharing) |   45    | Demonstrate their technical mastery through a Mid-Year challenge.    |
 
 ---
+## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://forms.gle/vyAD1HFwXHZMRXrr9">Submit Your Feedback and Ideas</a></h3>
-
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-20-21/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---
