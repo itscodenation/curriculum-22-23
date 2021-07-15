@@ -1,12 +1,13 @@
 # Unit 4: Layout and Positioning
 
-|Remote|                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                        |
-| :-------------------------------------------------------------------------------------------------------------------: | :-----: | :--------------------------------------------------------------------------------------- |:----|
-|     [**1**](https://docs.google.com/presentation/d/15WcxZaSnAVWr6F7BgOygFeKo1XUxJLmazyfjmV5b3Mw/edit#slide=id.g966e102037_1_0)     |     [**1**](https://docs.google.com/presentation/d/1zclOkOz2F2eFqOY_sF9Eg5PVkPQCzBoEEZDRLoE6k3s/edit?usp=sharing)     |   45    | Use the properties of the box model to change how elements are displayed on the webpage. |
-|     [**2**](https://docs.google.com/presentation/d/1ttC8PFbuFaGe_rPbKw3dpZUjiEpgbyS-emW8cuy7dx8/edit#slide=id.g9674252d41_0_0)     |     [**2**](https://docs.google.com/presentation/d/1Ot2LZT7SJgbVmx1h7_HAXUUcbr2WkDsOPY3s94nBako/edit?usp=sharing)     |   45    | Use div elements to group and organize elements on a webpage.                            |
-|     [**3**](https://docs.google.com/presentation/d/1NIN9Q3fglcKqlCBjlDRlsPoaJevJJTc61It6vNtgsL0/edit#slide=id.g9682d41951_0_0)     |     [**3**](https://docs.google.com/presentation/d/1KBRjFWIHZffPqwX5fnk-vY5YxH1QPxkMF7U2FNhVtVc/edit?usp=sharing)     |   45    | Use flexbox to align elements horizontally on a webpage.                                 |
-|     [**4**](https://docs.google.com/presentation/d/1c4D_-NDSBLoUsD_t88PNVaxI5UtvE4YDOvDt_COMJWk/edit#slide=id.g5cc2c63adc_0_0)     |     [**4**](https://docs.google.com/presentation/d/1YwqaSCoj60igjlP8wna126goknaRW9ej6WNLJ61AEsA/edit?usp=sharing)     |   45    | Use multiple class attributes to style specific classes of elements on a webpage.        |
-|     [**Project 1**](https://docs.google.com/presentation/d/1uk0-7xXQqm7OVCDWhnyZyYC9aZVleQTS_Awp2DCoqgg/edit#slide=id.g9759030f29_0_0)     | [**Project 1**](https://docs.google.com/presentation/d/1ECOHH29CAnQ9DVrPCoShaLFa3DV6D_JrY9dpI-LIFzo/edit?usp=sharing) |  45x2   | Create an original webpage that utilizes layout and positioning skills. (Group Project)  |
+|                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                        |
+| :-----: | :--------------------------------------------------------------------------------------- |:----|
+|     [**1**](https://docs.google.com/presentation/d/1t-vbBpHFr04JMAY2noitCjHJ8nUuStIdLBCYawHkvuU/edit?usp=sharing)     |   45    | Create a wireframe for an original webpage |
+|     [**2**](https://docs.google.com/presentation/d/1mZ9-9ZSlbmKzmlIiF0sM63Yi-JqFY2M7iYsT3Hj4iyU/edit?usp=sharing)     |   45    | Use the properties of the box model to change how elements are displayed on the webpage.         |
+|     [**3**](https://docs.google.com/presentation/d/1szZo5jASRtqPh8taug1aUSks3bPdfAmICis2xDzfS5g/edit?usp=sharing)     |   45    | Use div elements to group and organize elements on a webpage.           |
+|     [**4**](https://docs.google.com/presentation/d/1olMgwi5ARIPFPCFIBufGdpB4pYeC5AqBn7uqhPfS8Hs/edit?usp=sharing)     |   45    | Use flexbox to align elements horizontally on a webpage       |
+|     [**5**](https://docs.google.com/presentation/d/1m6H8CYpmEdrIkOdOjUt1-oelaEnxPwsTeCoANK3GX_Q/edit?usp=sharing)     |   45    | Use multiple class attributes to style specific classes of elements on a webpage.|
+| [**6 (Project)**](https://docs.google.com/presentation/d/1SueR9b1X45t-rp2OGfrMaesSOv5iPmQ5K3Yr7kUIkTk/edit?usp=sharing) |  45x2   | Create an original webpage that utilizes layout and positioning skills (Group Project)  |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>

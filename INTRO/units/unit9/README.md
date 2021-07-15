@@ -1,10 +1,14 @@
-# Unit 9: Arrays and Loops
-|Remote|Lesson| Minutes | Objectives <br> _Coders will ..._|
-|:---------------------------------------------:|:-----:|:--------------------------------------------------------------:|:-----|
-|[**1**](https://docs.google.com/presentation/d/1z7DrV5I3WrWQVl_fvuSfEU3wECrsyIvoxJhhm6_Zlq0/edit#slide=id.g999009eb0e_0_1118)|[**1**](https://docs.google.com/presentation/d/1tE2E88VIWRue57vkvUzlwSzwpSxkRsU6jnhP7PPsDHM/edit?usp=sharing)|45|Create an array and retrieve an array element using the index.|
-|[**2**](https://docs.google.com/presentation/d/1Hu8AY2cIwtDYKh2msclcYYVRKuvJivsGVOj1VwvctYw/edit#slide=id.g806c369778_0_0)|[**2**](https://docs.google.com/presentation/d/1Wgjs4aGRxF3d8UrKV-JPpTsmbrewq-oY_ibRwyht94M/edit?usp=sharing)|45| Iterate over an array.|
-|[**3**](https://docs.google.com/presentation/d/1Vlc-gFej-J6IbIfSVgqScyp-Vz2ORc4tedj1pW0g1oc/edit#slide=id.g24c7339d71_0_167)|[**3**](https://docs.google.com/presentation/d/1TCJnCthP4zXEZIMVnbg6I5-TJV4FYoXDarjluzHRYSY/edit?usp=sharing)|45| Use array methods.|
-|[**Project**](https://docs.google.com/presentation/d/1M0qipl3i9aAO0bQFOD7htfWHAQkSiq5QX_R7omgbQiM/edit#slide=id.g8daab33eb6_1_0)|[**Project**](https://docs.google.com/presentation/d/1phzaNXAZBfDi1SBhEwc9KUzTH6sYSrm4v2w1crrcvec/edit#slide=id.g4e7cce4ed9_1_0)|45x2|Create a website that uses loops to iterate over arrays.(Individual)|
+# Unit 9: End of Year Unit (Capstone and Hackathon)
+
+|                                                            Lesson                                                            | Minutes | Objectives <br> _Coders will ..._                                                     |
+| :--------------------------------------------------------------------------------------------------------------------------: | :-----: | :------------------------------------------------------------------------------------ |
+|  [**1**](https://docs.google.com/presentation/d/1x4Qt_rLtJn5iAs8a7rmorNfFZcuF4Zrx2EczcZdeJEI/edit?usp=sharing)  |   45    | Export projects to a shareable online portfolio through Github.                                                |
+| [**2/3/4 (Project)**](https://docs.google.com/presentation/d/12y5tSljKcWXQPlRGpc8LxA5RKo3f72Oj6Ig7oASSztc/edit?usp=sharing) |   45x3    | Demonstrate their technical mastery by completing end of year challenge                                     |
+| [**5**](https://docs.google.com/presentation/d/1QQOiNV-dFhToSeABGY54uuWEbCVpJRCXZvDPB2RtwiE/edit?usp=sharing) |   45    | Engage in collaborative brainstorming to build consensus around a project idea.                                |
+| [**6 (Project)**](https://docs.google.com/presentation/d/1t2ecPinC8KJAFhlsSHEqm84lCpGVABGCT2sVE61LZkk/edit?usp=sharing) |   45x2    | Collaborate with team members on a shared project                         |
+| [**7 (Project)**](https://docs.google.com/presentation/d/1542Q54cmrkkExdBQwJNouPoml1lS3LVnEzHfmZnRYuE/edit?usp=sharing) |   45x2    | Collaborate with team members on a shared project                         |
+| [**8**](https://docs.google.com/presentation/d/12yhsDYef-q0fb5DZ6H90GSEMADlcp4EK3IZsjwX7Tzo/edit?usp=sharing) |   45    | Prepare for a presentation and present Hackathon projects. |
+| [**9**](https://docs.google.com/presentation/d/1o6rEhlwUmIfhLV3WuBtuC7OJeVygOi37JcQ9-c98-O0/edit?usp=sharing) |   45    | Celebrate preparedness to pursue further study and/or a career in tech ||
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
