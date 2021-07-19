@@ -6,11 +6,13 @@ In this unit, coders will review HTML and CSS concepts from the Intro to Web Dev
 
 ## Sessions
 
-|Remote Slides|                                                Session Slides                                                 | _Coders will be able to ..._                                                |
-| :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------- |:------|
-|[**1**](https://docs.google.com/presentation/d/1GYWHmYQyCb9YchhF6Xb6wrM8TOSn1yShXlrvkrlQ5Zw/edit#slide=id.g609063c885_0_0)| [**1**](https://docs.google.com/presentation/d/1MlWxGC8oXk2bB8P6VN34FdiM-LuOTBHigH40Y36mWQE/edit?usp=sharing) | Describe the course routines and procedures and review HTML and CSS.        |
-|[**2**](https://docs.google.com/presentation/d/1QWUIoUwEC4nXrz39TMn7zLT18OmRrn9oTJ-kWyCFPso/edit#slide=id.g5c92050745_0_0)| [**2**](https://docs.google.com/presentation/d/1yi4f712Gk2xMyQo1MLB08Uvv4VWFO8HFSA2-xWRVfVA/edit?usp=sharing) | Review HTML, CSS, and Layout Positioning concepts and navigate Glitch.      |
-|[**3**](https://docs.google.com/presentation/d/1NMu0OLpKX8FRLljvG__84ok1G5vxi0i-RseIGgVDPi8/edit#slide=id.g5c92050745_0_0)| [**3**](https://docs.google.com/presentation/d/1DqgRqJRhZIWhqwx8Oy3A0ChoddAwpnsQYjzvuonF78A/edit?usp=sharing) | Learn to upload and link files and complete their online portfolio projects |
+|                                               Session Slides                                                 | _Coders will be able to ..._                                                |
+| --------------------------------------------------------------------------- |:------|
+| [**1**](https://docs.google.com/presentation/d/1C5wfSjlcYO0d_nzYA9pGkh3GZMhAbCRyFGmTzSace_8/edit?usp=sharing) | Describe the course routines and procedures        |
+| [**2**](https://docs.google.com/presentation/d/1T0vULeDQkLl6mXzmCFIWk17_zbhGPIvkEC6nGesy4EE/edit?usp=sharing) | Navigate Glitch and review HTML/CSS     |
+| [**3**](https://docs.google.com/presentation/d/1oJqA51xO7X_fn99J2_cUsjfOIn7bCBtSvnf8QTN-Pwk/edit?usp=sharing) | Learn to upload and link files and complete their online portfolio projects |
+| [**4**](https://docs.google.com/presentation/d/1KdUF2U-oQRzc9dmWvX0Ke12198uJb5tA3Xp-mW0Mt8A/edit?usp=sharing) | Complete professional portfolios using HTML and CSS |
+| [**5**](https://docs.google.com/presentation/d/1yK-aXKs27vYGUx08Xi_bTqfoKdOLBPE_kmJpMVx0dFk/edit?usp=sharing) | Review key jQuery and JavaScript concepts |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
