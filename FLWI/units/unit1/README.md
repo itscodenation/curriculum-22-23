@@ -2,12 +2,12 @@
 
 ## Overview
 
-In this unit, coders will review HTML and CSS concepts from the Intro to Web Development course and build a multi-page professional Portfolio.
+In this unit, coders will review HTML and CSS concepts from the Intro to Web Development course and build a multi-page professional Portfolio. Coders will also learn how to navigate a new IDE and review key jQuery and JavaScript concepts.
 
 ## Sessions
 
 |                                               Session Slides                                                 | _Coders will be able to ..._                                                |
-| --------------------------------------------------------------------------- |:------|
+| :---------------------------------------------------------------------------: |:------|
 | [**1**](https://docs.google.com/presentation/d/1C5wfSjlcYO0d_nzYA9pGkh3GZMhAbCRyFGmTzSace_8/edit?usp=sharing) | Describe the course routines and procedures        |
 | [**2**](https://docs.google.com/presentation/d/1T0vULeDQkLl6mXzmCFIWk17_zbhGPIvkEC6nGesy4EE/edit?usp=sharing) | Navigate Glitch and review HTML/CSS     |
 | [**3**](https://docs.google.com/presentation/d/1oJqA51xO7X_fn99J2_cUsjfOIn7bCBtSvnf8QTN-Pwk/edit?usp=sharing) | Learn to upload and link files and complete their online portfolio projects |

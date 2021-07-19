@@ -1,14 +1,15 @@
-# Unit 5: Mastery Day
+# Unit 5: HackerRank, Scholarships, Career Panel, and Networking
 
 ## Overview
 
-In this unit, students will be able to demonstrate their technical ability by participating in a HackerRank challenge and work on their portfolios.
+In this unit, students will be able to demonstrate their technical ability by participating in a HackerRank challenge and work on their portfolios. Students will also learn to look for scholarships and opportunities, engage in networking and enjoy a career panel.
 
 ## Sessions
 
-|Remote Slides|                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
-|:---:| :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|[**1**](https://docs.google.com/presentation/d/1ZPsUJK0firtmJBaNh6uNHtm-2sHWKsbV0uz0TWKhOQc/edit#slide=id.g36f3732b7b_0_1)| [**1**](https://docs.google.com/presentation/d/1vKnlFiz1KZWIkJugooh1xcvDI7hpt3V0e4VMXtr4dX4/edit#slide=id.g36f3732b7b_0_1) | Demonstate their technical ability through a HackerRank assessment.<br> Update their professional portfolios with projects that showcase their technical ability. |
+|                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
+| :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1uoXz7vu1RmaeHmzOcSgn6WqJGB8xyCtZnjnCgkiIxEw/edit?usp=sharing) | <ul><li>Demonstate their technical ability through a HackerRank challenge.</li> <li>Update their professional portfolios with projects that showcase their technical ability.</li></ul> |
+| [**2**](https://docs.google.com/presentation/d/1cpMKFi1BikXF0DcBitCtgyElhZJkQ0yS5maQzmB-udg/edit?usp=sharing) |<ul><li>Professionals will able to use their resources to research and apply for career opportunities and scholarships.</li><li>Engage in networking with other professionals</li><li>Articulate a pathway to a career in technology</li></ul> |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>

@@ -1,16 +1,18 @@
-# Unit 8: End of Year Unit
+# Unit 8: Client Project
 
 ## Overview
 
-In this unit, coders will close out the year by polishing off their portfolios, showcase their skills through a HackerRank challenge, and present their Client Projects.
+In this unit, coders will work in pairs or groups of 3 to build a project for a client based on a given set of APIs.
 
 ## Sessions
 
-|Remote Slides|                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                       | External Resources |
-|:----:| :-----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: |
-|[**1**](https://docs.google.com/presentation/d/1DEnRxVHeEMTGoHiXd5MNxMQg6Ggngxc89oo4c7QCR_I/edit#slide=id.g47a50fe529_3_0)| [**1**](https://docs.google.com/presentation/d/1O6bWei-ESE-p9ebVsw_WuFRlqd2nKGdnPnj1aBKygTQ/edit?usp=sharing) | Complete their professional portfolios with projects that showcase their technical ability.<br>Demonstate their technical ability through a HackerRank assessment. |
-|[**2**](https://docs.google.com/presentation/d/1u-3bfD4QY4ub1zCCCPlm__tOjWPMAP46SeL27rfRFTA/edit#slide=id.ga4be790da0_0_990)|            [**2**](https://docs.google.com/presentation/d/1H-14HB-sXYu_SWml-Yt1_bPpFDBuodbVnvc3tG4AU7M/edit?usp=sharing)             | Deliver an engaging presentation.                                                                                                                                  |
-|[**3**](https://docs.google.com/presentation/d/1cjqMh99kNO3QNWNsLYEMxup2gCanIAUFlAwjGglRH6U/edit?usp=sharing)|            [**3**](https://docs.google.com/presentation/d/1cjqMh99kNO3QNWNsLYEMxup2gCanIAUFlAwjGglRH6U/edit?usp=sharing)             | Complete an end of year survey.                                                                                                                                |
+|                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                                 |
+| :-----------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**1**](https://docs.google.com/presentation/d/1AV0dcG48i1gg3x1aFK6ZF11A2bOsmtAduFawbtMqM60/edit?usp=sharing) | Engage in collaborative brainstorming to build consensus around a project idea.<br>Create a project plan to accomplish specific tasks within a predetermined amount of time. |
+| [**2**](https://docs.google.com/presentation/d/12ig6Ax3Pz1X_z_oJ-pSM-g34L2DYkVvxTe0E4FPHUTY/edit?usp=sharing) | Engage in sustained coding and apply technical skills to develop and design a webapp for their client.                                                                       |
+| [**3**](https://docs.google.com/presentation/d/14L2dCFNJJJLx9eJoks0ooEW_PlNeRSQhfmqLnza-6VU/edit?usp=sharing) | Engage in sustained coding and apply technical skills to develop and design a webapp for their client.                                                                       |
+| [**4**](https://docs.google.com/presentation/d/1AYEqx9r11FlfKick7-CsP2I8m6_Y6IyvnTOU16t3KMU/edit?usp=sharing) | Complete their Client Project and prepare for presentations.                                                                                                                 |
+
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
