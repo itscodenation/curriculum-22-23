@@ -1,5 +1,5 @@
 # Unit 5: Mid-Year Unit
-
+[**Unit 5 Objectives & Lesson Plans**](https://docs.google.com/document/d/15rOXIbveuDylbP86brhorcE9Nij1K7AUkoPH7McGV-U/edit)
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                    |
 | :-----: | :------------------------------------------------------------------- |:-----|
 | [**1**](https://docs.google.com/presentation/d/1tM-HUwEEwJnDX09y_rVP_fWGinervaHBhGKuM27sKYc/edit?usp=sharing) |   45    | Build a sense of belonging in the tech industry through a project showcase                       |
