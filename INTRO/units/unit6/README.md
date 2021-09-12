@@ -1,5 +1,5 @@
 # Unit 6: jQuery
-
+[**Unit 6 Objectives & Lesson Plans**](https://docs.google.com/document/d/1J_7I--jazmSAzIkwZDiSK1wBLk4Jt39_8ugGkelk0ig/edit)
 |                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                 |
 | :-----: | :-------------------------------------------------------------------------------- |------|
 |     [**1 (Project)**](https://docs.google.com/presentation/d/14lnPVFzsW59Fcz_o0k6SSHKKbySKji749MQTuVB5rLg/edit?usp=sharing)     |   45    | Design a plan to to build an interactive website using jQuery|
