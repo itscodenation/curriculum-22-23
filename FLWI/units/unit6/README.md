@@ -4,6 +4,8 @@
 
 In this unit, coders will create a Giphy App. The Giphy App will take a search term as an input and display a random Gif in a thumbnail on the screen. To create this project, coders will learn the anatomy of an API Request, use the fetch() method to make a simple GET request, handle a JSON response object, use jQuery to display a gif.
 
+[**FLW Unit 6 Guide**](https://docs.google.com/document/d/1InkAl0p6BTGL93wnsdIt3fkC9RzU-srfG2dOc2Q4dZs/edit)
+
 ## Sessions
 
 |                                                       Session Slides                                                       | _Coders will be able to ..._                                 |
