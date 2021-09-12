@@ -1,4 +1,5 @@
 # Unit 7: Introduction to JavaScript
+[**Unit 7 Objectives & Lesson Plans**](https://docs.google.com/document/d/1RWGlAv71opW8Odkhd_uCiIQEhbgxAXqntqIn7s6p7Z4/edit)
 |                                                 Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                    |
 | :-----: | :------------------------------------------------------------------- |:-----|                                                 
 |[**1 (Project)**](https://docs.google.com/presentation/d/1JAGr_kwM0EM9s2oMADtnx5K1nFcP4e8LbjK3tYoej6k/edit?usp=sharing)     |   45    | Create a website that retrieves a user input, stores user input in a variable, manipulates data using operators, and displays the output on the page using .append().                   |
