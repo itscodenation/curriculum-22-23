@@ -3,7 +3,7 @@
 ## Overview
 
 In this unit, coders will review HTML and CSS concepts from the Intro to Web Development course and build a multi-page professional Portfolio. Coders will also learn how to navigate a new IDE and review key jQuery and JavaScript concepts.
-
+[**FLW Unit 1 Guide**](https://docs.google.com/document/d/1wmjC0tBpxyoMiDLTPdJdHvm10-_z0hU8dnOlbTxyzIs/edit)
 ## Sessions
 
 |                                               Session Slides                                                 | _Coders will be able to ..._                                                |
