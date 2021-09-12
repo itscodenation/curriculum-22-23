@@ -4,6 +4,7 @@
 
 Professional Skills days are a time for students to build their professional skills and develop work products like their LinkedIn, resumes and online professional portfolios. Volunteers should feel comfortable sharing their experiences and the tools they use in their professional lives. In this unit, students will build resumes and LinkedIns and learn about time managment and imposter syndrome.
 
+[**FLW Unit 3 Guide**](https://docs.google.com/document/d/1Jbq4J6P8a4ljfE2H5Oag0koheyomAr2VzCeA54COSWU/edit)
 ## Sessions
 
 |                                                Session Slides                                                 | Professionals will be able to ..._                                                            |
