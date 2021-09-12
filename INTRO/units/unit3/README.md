@@ -1,5 +1,5 @@
 # Unit 3: CSS
-[** Unit 3 Objectives & Lesson Plans**](https://docs.google.com/document/d/1QxLQKtRGSi_nCDzWWQjzxWjIhBqJhCJdCgXXOc1qooo/edit)
+[**Unit 3 Objectives & Lesson Plans**](https://docs.google.com/document/d/1QxLQKtRGSi_nCDzWWQjzxWjIhBqJhCJdCgXXOc1qooo/edit)
 |                                                     Lesson                                                        | Minutes | Objectives <br> _Coders will ..._                                                             |
 | :-----------------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------- |
 |    [**1**](https://docs.google.com/presentation/d/1AQYT7V1qucYQShHNgrZ1SuQmT00Nv2Q6ebAOgwffAoQ/edit?usp=sharing)    |   45    | Select an HTML element and change its style using CSS.                                        |
