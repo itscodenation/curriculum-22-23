@@ -4,6 +4,7 @@
 
 This professional skills day will focus on whiteboarding and building a sense of belonging in the tech industry.
 
+[**FLW Unit 7 Guide**](https://docs.google.com/document/d/1YnGibCIjgZCKyW8h0hnACQTdhIsMjs951cI7ybZnguQ/edit)
 ## Sessions
 
 |                                                        Session Slides                                                         | _Professionals will be able to ..._                                                                                                                                        |
