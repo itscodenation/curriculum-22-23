@@ -4,6 +4,7 @@
 
 In this unit, coders will close out the year by polishing off their portfolios, showcase their skills through a HackerRank challenge, and present their Client Projects.
 
+[**FLW Unit 9 Guide**](https://docs.google.com/document/d/1QF0ytpJ2cBwP49uY2y9_AzyeDEFnjdsqmhwA8AZLFDI/edit)
 ## Sessions
 
 |                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                       | External Resources |
