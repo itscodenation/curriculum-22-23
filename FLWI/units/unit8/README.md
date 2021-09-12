@@ -4,6 +4,8 @@
 
 In this unit, coders will work in pairs or groups of 3 to build a project for a client based on a given set of APIs.
 
+[**FLW Unit 8 Guide**](https://docs.google.com/document/d/1Lu1tkyQ6h_d_ruVWUQHf7kL1MbIUCFAt20i6gpuMh24/edit)
+
 ## Sessions
 
 |                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                                 |
