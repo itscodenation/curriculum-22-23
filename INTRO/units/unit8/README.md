@@ -1,4 +1,5 @@
 # Unit 8: Conditionals, Arrays, and Loops
+[**Unit 8 Objectives & Lesson Plans**](https://docs.google.com/document/d/1VW1qsxNn6t4kMAU0DEowI2M-dC31vG_4FSBCKByfJL8/edit)
 
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                                         |
 | :-----: | :---------------------------------------------------------------------------------------- |:----|
