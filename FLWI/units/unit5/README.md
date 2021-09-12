@@ -4,6 +4,7 @@
 
 In this unit, students will be able to demonstrate their technical ability by participating in a HackerRank challenge and work on their portfolios. Students will also learn to look for scholarships and opportunities, engage in networking and enjoy a career panel.
 
+[**FLW Unit 5 Guide**](https://docs.google.com/document/d/1FZ8bp66gmxk6tPuRCBJxZuFO2BQjQ5ymioiXiA2l2Bg/edit)
 ## Sessions
 
 |                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
