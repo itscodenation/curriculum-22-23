@@ -3,6 +3,7 @@
 ## Overview
 
 In this unit, coders will create a Rock, Paper, Scissors game. The game will take in a user choice, generate a computer choice, and display the winner to the screen. To create this project, coders will use jQuery to take user input, use the Math Library to pick a random computer choice, and use conditionals to determine the winner. Once built, coders will use functions to improve their code.
+
 [**FLW Unit 2 Objectives & Lesson Plans**](https://docs.google.com/document/d/1q5jWSfiobc1i3yiQ6ck_R7lzHLyWkq-CCYUGZB2rzQQ/edit)
 ## Sessions
 
