@@ -1,4 +1,5 @@
 # Unit 1: Introduction to Code Nation
+[Unit Guide](https://docs.google.com/document/d/10Axfa8CFh4gkyFWSQc0UACaB-tFJ14h4osrGkAW1VMg/edit)
 
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._            |
 |:--------------------------------------: | :-----: | :--------------------------------------------- |
