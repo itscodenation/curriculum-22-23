@@ -1,5 +1,5 @@
 # Unit 1: Introduction to Code Nation
-|[**Unit 1  Objectives & Lesson Plans**](https://docs.google.com/document/d/10Axfa8CFh4gkyFWSQc0UACaB-tFJ14h4osrGkAW1VMg/edit)|
+[**Unit 1  Objectives & Lesson Plans**](https://docs.google.com/document/d/10Axfa8CFh4gkyFWSQc0UACaB-tFJ14h4osrGkAW1VMg/edit)
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._            |
 |:--------------------------------------: | :-----: | :--------------------------------------------- |
 | [**1**](https://docs.google.com/presentation/d/18x4zsIz0MKsSQeMzi1hJQ2xxSq3I7HodC3uzAl3eydc/edit?usp=sharing) |   45    | Describe why learning how to code is important |
