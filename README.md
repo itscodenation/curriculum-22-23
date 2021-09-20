@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.canva.com/design/DAEpi5hJm5c/Pjj7YJmC6kqwjUwZdh0S7A/view?utm_content=DAEpi5hJm5c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" ></p>
+<p align="center"> <img src="https://imgur.com/a/dpQVkFt" ></p>
 
 | Level                                  | Description                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
