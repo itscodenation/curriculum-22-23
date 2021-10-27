@@ -1,19 +1,18 @@
-# Unit 2: Jeopardy (Individual)
+# Unit 2: Class Roster (Individual)
 
 ## Overview
-In this unit, coders will build a Jeopardy project using JavaScript. Students will review and practice basic JS concepts to ensure they have a strong CS background. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.
+In this unit, coders will build a Class Roster project using JavaScript. Students will review and practice basic JS concepts to ensure they have a strong CS background. This project is intended to highlight some important aspects of goal setting and project management. The project will culminate in a final presentation.
 
 ## Sessions 
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
-|[**1**](https://docs.google.com/presentation/d/1BGNOZ-KUa_BL_F4VzzeZcX0X3UfqFBC6EKmA_9pYUIU/edit#slide=id.g609c8db857_0_0)|<ul><li>Set up a project from a repository using Code Sandbox</li><li>Navigate the HackerRank platform to complete in-class assignments</li><li>Ask technical questions with tools</li></ul>| 
-|[**2**](https://docs.google.com/presentation/d/1AzN5xt41J1IsCFrdtSxDDycCnmYeOULNNVjkYqus4TQ/edit#slide=id.g70918ca8bf_0_15)|<ul><li>Use conditionals, arithmetic and loops to change what is displayed on the screen</li><li>Read provided code snippets and explain how it behaves</li></ul>|
-|[**3**](https://docs.google.com/presentation/d/1J8HhPNpM16KkBt3WiaxZ9Rl8kHlaLpb4ZEPms5zBwdM/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use conditionals, arithmetic and loops to change what is displayed on the screen</li><li>Using "gist tool" to read/analyze code snippets</li></ul>|
-|[**4**](https://docs.google.com/presentation/d/16NBaJ9shtg_XSFgT8faRKAQKloKSDw7yDbyRxrwN-2o/edit#slide=id.g8aba7f171e_1_20)|<ul><li>Use functions to organize code</li><li>Read peers' code and provide constructive feedback</li></ul>|
-|[**5**](https://docs.google.com/presentation/d/1AjsHAMMZfjlaH7YWghkrnTzYmASIiVf8EU5GTNLCAyk/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use functions to organize code</li><li>Using "gist tool" to review peers' code snippets</li></ul>|
-|[**6**](https://docs.google.com/presentation/d/12M4oVWS14w5PfOQEz76AWaATSwUnpNSMYCq_39D-qPI/edit)|<ul><li>Use functions to modify objects</li></ul>|
-|[**7**](https://docs.google.com/presentation/d/1aYwrcFLH2A845UeUv_i7KFHnxoD9o9uGzymBtW856I8/edit#slide=id.g602e4c3515_0_200)|<ul><li>Use functions to modify objects</li><li>Explore the Chrome developer tools</li></ul>|
-|[**8**](https://docs.google.com/presentation/d/1J9JtHsnAo59_v7pKVDCUW_39GAsP2aJe7jcJJPPbJsQ/edit#slide=id.g3d4bf58eac_0_10)|<ul><li>Prepare for a presentation in a remote setting</li></ul>| 
+|[**1**](https://docs.google.com/presentation/d/15R8Fu8--MCHIwN4oMdHIS8E0Uxvyu_qcsYTPI2NkBNc/edit#slide=id.ge6d7114024_0_0)|<ul><li>Use Code Sandbox to set up a basic React project</li><li>Use JSX to render a variable on the webpage</li><li>Ask technical questions with tools</li></ul>| 
+|[**2**](https://docs.google.com/presentation/d/1Hv_KGHgWq1HIbRDXFSV17-oCX3unBVFVvoLFU9nDUMg/edit#slide=id.gb48af952f2_0_0)|<ul><li>Organize code by creating and calling functions</li><li>Use conditionals and arithmetic to change what is displayed on the screen</li></ul>|
+|[**3**](https://docs.google.com/presentation/d/1vI8up-tQQppFR18CWgd2Ug1F1yNaEal5SxIYgiL7U4c/edit#slide=id.gb48af952f2_0_0)|<ul><li>Display arrays of JSX data in React</li><li>Organize and access data in two-dimensional (2D) arrays</li><li>Loop over 2D arrays to display different content on screen</li></ul>|
+|[**4**](https://docs.google.com/presentation/d/1WzyGdEFILKw6AxZyiGEEfNqcTaiV8QKEF1jgJNKgUIo/edit#slide=id.ge6d7114024_0_0)|<ul><li>Review functions</li><li>Replace the body of a for loop with a function</li><li>Replace for loops with the map method</li></ul>|
+|[**5**](https://docs.google.com/presentation/d/1dSuCHsymz_DSl3F5hxwxZorWc1suXAtpcV-i-hO0dMs/edit#slide=id.gb48af952f2_0_0)|<ul><li>Review the object notation</li><li>Learn how to structure data into objects</li><li>Use functions to modify objects</li></ul>|
+|[**6**]|<ul><li>Project time to complete projects</li></ul>|
+|[**7**](https://docs.google.com/presentation/d/1J9JtHsnAo59_v7pKVDCUW_39GAsP2aJe7jcJJPPbJsQ/edit#slide=id.g3d4bf58eac_0_10)|<ul><li>Prepare for a presentation in a remote setting</li></ul>| 
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
