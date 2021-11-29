@@ -10,7 +10,7 @@ In this unit, coders will build a Class Roster project using JavaScript. Student
 |[**2**](https://docs.google.com/presentation/d/1Hv_KGHgWq1HIbRDXFSV17-oCX3unBVFVvoLFU9nDUMg/edit#slide=id.gb48af952f2_0_0)|<ul><li>Organize code by creating and calling functions</li><li>Use conditionals and arithmetic to change what is displayed on the screen</li></ul>|
 |[**3**](https://docs.google.com/presentation/d/1vI8up-tQQppFR18CWgd2Ug1F1yNaEal5SxIYgiL7U4c/edit#slide=id.gb48af952f2_0_0)|<ul><li>Display arrays of JSX data in React</li><li>Organize and access data in two-dimensional (2D) arrays</li><li>Loop over 2D arrays to display different content on screen</li></ul>|
 |[**4**](https://docs.google.com/presentation/d/1WzyGdEFILKw6AxZyiGEEfNqcTaiV8QKEF1jgJNKgUIo/edit#slide=id.ge6d7114024_0_0)|<ul><li>Review functions</li><li>Replace the body of a for loop with a function</li><li>Replace for loops with the map method</li></ul>|
-|[**5**](https://docs.google.com/presentation/d/1dSuCHsymz_DSl3F5hxwxZorWc1suXAtpcV-i-hO0dMs/edit#slide=id.gb48af952f2_0_0)|<ul><li>Review the object notation</li><li>Learn how to structure data into objects</li><li>Use functions to modify objects</li></ul>|
+|[**5**](https://docs.google.com/presentation/d/1_ZnmoASZmbs_M1MrQ_5d7tugFZfOL-70_CfDMW3NlQQ/edit#slide=id.gb48af952f2_0_0)|<ul><li>Review the object notation</li><li>Learn how to structure data into objects</li><li>Use functions to modify objects</li></ul>|
 |[**6**]|<ul><li>Project time to complete projects</li></ul>|
 |[**7**](https://docs.google.com/presentation/d/1J9JtHsnAo59_v7pKVDCUW_39GAsP2aJe7jcJJPPbJsQ/edit#slide=id.g3d4bf58eac_0_10)|<ul><li>Prepare for a presentation in a remote setting</li></ul>| 
 
