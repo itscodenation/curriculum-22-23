@@ -1,8 +1,8 @@
 # Unit 1: Introduction to Code Nation
-[**Unit 1  Objectives & Lesson Plans**](https://docs.google.com/document/d/10Axfa8CFh4gkyFWSQc0UACaB-tFJ14h4osrGkAW1VMg/edit)
+[**Unit 1  Objectives & Lesson Plans**](https://docs.google.com/document/d/1pSDV5CKfmf3kB4Rw_GbSB8rMscBs5fzBJybm8dire98/edit)
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._            |
 |:--------------------------------------: | :-----: | :--------------------------------------------- |
-| [**1**](https://docs.google.com/presentation/d/18x4zsIz0MKsSQeMzi1hJQ2xxSq3I7HodC3uzAl3eydc/edit?usp=sharing) |   45    | Describe why learning how to code is important |
+| [**1**](https://docs.google.com/presentation/d/1kBFi_lpbn7cwXST9xK5piC3k9W_0WZVuAbkw-_yjKA0/edit#slide=id.g1304dd2c97a_0_0) |   45    | Describe what Code Nation is and why learning to code is important. | understand Code Nation's purpose and mission. |
 | [**2**](https://docs.google.com/presentation/d/1CROSrI0K76437bRe_lpA5ndj4MtZj1x4pJ2kYeijb1M/edit?usp=sharing) |   45    |Articulate a pathway to a career in technology  |
 |[**3**](https://docs.google.com/presentation/d/13xZrstgeCiERId8BnR8HHy4LGbGZDeSEct4tl79pdXI/edit?usp=sharing) |   45    |    Navigate Code Nation platforms |
 
