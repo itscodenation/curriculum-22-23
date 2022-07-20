@@ -7,8 +7,7 @@
 | [**3**]() |   45  |**Lab Day**</br>Save user input by using the .value property     |
 | [**4**]() |   45  |**Content-Only Day**</br>Use string concatenation to manipulate strings and variables.   |
 | [**5**]() |   45  |**Content-Only Day**</br>Create basic conditional statements    |
-| [**6(Tech and Society)**]() |   45  |**Content-Only Day**</br>Create conditional statements with multiple conditions using else if</br>
-Tech and Society Spotlight: Discuss the Digital Divide and its impacts on students    |
+| [**6(Tech and Society)**]() |   45  |**Content-Only Day**</br>Create conditional statements with multiple conditions using else if</br>Tech and Society Spotlight: Discuss the Digital Divide and its impacts on students    |
 | [**R**]() |   45  |**Review Day**</br>Review how to create basic conditional statements with else if     |
 | [**7**]() |   45  |**Content-Only Day**</br>Identify, evaluate, and construct compound conditional statements.     |
 | [**8**]() |   45  | **Full Lab Day**</br>Develop their Unit 5 project using their project plan and conditional logic     |
