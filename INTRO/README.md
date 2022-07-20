@@ -8,11 +8,11 @@
 | [**2: HTML and CSS**](units/unit2)                           |  16 Lessons <br> 1 Individual Project               | <p>Students learn HTML and CSS to build a website for a cause they are passionate about!</p>                                                                                                                                                                                                                                                                                                                                  |
 | [**3: Intro to JavaScript**](units/unit3)                            |        12 Lessons<br> 1 Individual Project       | <p>Students learn about variables, DOM manipulation (querySelector, .innerHTML, .style) and event handlers to create a Choose Your Own Adventure game!</p>                                                                                                                                                                                                                         |
 | [**4: Mid Year Unit**](units/unit4)         |           3 Lessons        | <p>Students will learn discuss diversity within the tech industry, review HTML, CSS, and JavaScript, and take the Mid Year Coding Challenge!                                                                                                                                                                                                                  |
-| [**5: Mid-Year Unit**](units/unit5)            |                    2 Lessons<br>1 Individual Project                     | <ul><li>Build a sense of belonging in the tech industry through a project showcase</li> <li>Articulate pathways to a career in technology through a career panel</li><li>Demonstrate their technical mastery through a Mid-Year Challenge</li></ul>                                                                                                                                                                                                                                                                                                                |
-| [**6: jQuery**](units/unit6)                         |        6 Lessons<br>1 Individual Project<br>          | <ul><li>Design a plan to to build an interactive website using jQuery<li>Define a programming language and identify ways that JavaScript can be used in a website</li><li>Use jQuery to select, show, and hide HTML elements</li><li>Use jQuery actions to make HTML elements toggle, slide, and fade</li><li>Use jQuery actions that take one or more arguments, such as `.text()`, and `.css()`, and `.attr()`</li><li>Write event handlers that allow the page to respond when a user interacts with it</li><li>Use jQuery actions to build an interactive webpage</li><li>Discuss the digital divide and its impact on equity</li></ul>                                                                                                                                                                                                                                             |
-| [**7: Introduction to JavaScript**](units/unit7)     | 4 Lessons<br> 1 Individual Project (3 Days)<br>  | <ul><li>Create a website that retrieves a user input, stores user input in a variable, manipulates data using operators, and displays the output on the page using .append().</li><li>Declare a new variable, store information in it, and read its value</li><li>Identify strings and numbers as data types and differentiate between them. </li><li>Use operators to manipulate data.</li><li>Use input.val( ) to retrieve a value from an input field.</li><li> Use the console to debug code.</li><li>Use .append() and concatenation to add HTML elements to a webpage.</li></ul> |
-| [**8: Conditionals, Arrays, Loops**](units/unit8)                   |          6 Lessons<br> 1 Individual Project           | <ul><li>Create basic conditional statements.</li><li>Create conditional statements with multiple conditions using else-if.</li> <li>Identify, evaluate, and construct compound conditional statements</li><li>Create an array and retrieve an array element using the index.</li><li>Iterate over an array</li><li>Use array methods</li><li>Able to demonstrate their knowledge of conditionals, arrays, and loops by building a webapp</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [**9: End of Year Unit: Capstone and Hackathon**](units/unit9) |                    8 Lessons                     | <ul><li>Export projects to a shareable online portfolio through GitHub</li><li>Demonstrate their technical mastery through and End of year challenge.</li><li>Enagage in collabortive brainstorming to build a consensus around a project idea.</li><li>Collaborate with team members on a shared project.</li><li>Prepare for a presentation and present Hackathon projects.</li><li>Celebrate preparedness to pursue further study and/or a career in tech </li></ul>                                                                                                                                                             |
+| [**5: JavaScript and Conditionals**](units/unit5)            |                    12 Lessons<br>1 Individual Project                     | <p>Students will learn how to use .value, string concatenation, and how to write conditionals to create a quiz web app!                                                                                                                                                                                                                                                         |
+| [**6: Arrays and Loops**](units/unit6)                         |        8 Lessons<br>1 Individual Project<br>          | <p>Students will learn about arrays, loops, and array methods and properties to build a movie,tv, or music suggestion app</p>                                                                                                                                                                                                                    |
+| [**7: End of the Year Unit**](units/unit7)     | 2 Lessons | <p> Students will take an End of Year coding challenge and celebrate their accomplishments this year! |
+| [**8[Optional]: Functions**](units/unit8)                   |          10 Lessons<br> 1 Individual Project           | <p>Students will learn about functions ot create a Rock, Paper, Scissors project!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
 
 ---
 
@@ -22,24 +22,24 @@
 ---
 
 **Special Shoutout to the Curriculum Council**:
-Adam Pirani,
+Abhay Kashyap,
+Benjamin Baum,
 Brian Clanton,
-Bridget Bailey,
-Edgar Muentes,
-Faran Jessani,
-Gabbie Piraino
+Bridget Bailey, 
+Chris Walquist,
+Elysa Strunin,
+Emily Vignaux,
+Faran Jessani, 
+Gabbie Piraino,
 Gilbert Ghang,
-Jason Alvarez,
-Jenna Van Conett,
-Justine Bulaong,
-Karina Montiel,
-Mark Griffith,
-Paul Fielek,
-Paul Hurlock-Dick,
-Paulina Miller,
-Pratik Pramanik,
-Tahmid Rahmid, and
-Xavi Ramirez
+Karim El Sayed, 
+Katrina Sabbak,
+Kenny Zhang, 
+Patrick Hurtado,
+Razzi Abuissa,
+Shahar Goldfinger,
+Terence Yang
+Zainab Ebrahimi,
 
 
 
