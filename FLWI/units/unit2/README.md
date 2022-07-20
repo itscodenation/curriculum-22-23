@@ -1,4 +1,4 @@
-# Unit 2: Playlist (Individual Projct)
+# Unit 2: Playlist (Individual Project)
 
 ## Overview
 
