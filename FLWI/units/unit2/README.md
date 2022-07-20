@@ -9,8 +9,7 @@ In this unit, coders will create a Playlist web app.  The Playlist will display 
 
 |                                                                    Session Slides                                                                     | _Coders will be able to ..._                                |
 | :-----------------------------------------------------------: |:-----|
-|                     [**1**]()                     | Declare a function that returns a value</br>Coding Best Practices Highlight: Using comments in code 
-                           |
+|                     [**1**]()                     | Declare a function that returns a value</br>Coding Best Practices Highlight: Using comments in code |
 |                     [**2**]()                     | Declare a function that takes parameters      |
 |                     [**3**]()                     | Create an array and retrieve data using the array index         |
 |                     [**4**]()                     | Iterate over an array</br>Professional Skills Highlight: Discuss problem solving strategies and the importance of perserverance in coding        |
