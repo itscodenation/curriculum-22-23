@@ -1,4 +1,5 @@
 <p align="center"><img src="https://i.ibb.co/jZhNF7Z/Code-Nation-Curriculum-22-23.png"></p>
+
 | Level                                  | Description                                                                                                                                                                                                                                                                                                       |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Intro to Web Development](INTRO)      | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts.                                                                              |
