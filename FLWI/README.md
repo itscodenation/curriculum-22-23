@@ -20,6 +20,24 @@
 ---
 
 **Special Shoutout to the Curriculum Council**:
+Abhay Kashyap,
+Benjamin Baum,
+Brian Clanton,
+Bridget Bailey, 
+Chris Walquist,
+Elysa Strunin,
+Emily Vignaux,
+Faran Jessani, 
+Gabbie Piraino,
+Gilbert Ghang,
+Karim El Sayed, 
+Katrina Sabbak,
+Kenny Zhang, 
+Patrick Hurtado,
+Razzi Abuissa,
+Shahar Goldfinger,
+Terence Yang
+Zainab Ebrahimi
 
 
 
