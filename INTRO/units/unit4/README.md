@@ -1,13 +1,10 @@
-# Unit 4: Layout and Positioning
-[**Unit 4 Objectives & Lesson Plans**](https://docs.google.com/document/d/1H4jHIXDeIAf5oU_muDkRb-TcOk3rxWe4pUs6oVnVrfE/edit) 
+# Unit 4: Mid Year Unit
+[**Unit 4 Objectives & Lesson Plans**]() 
 |                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                        |
 | :-----: | :--------------------------------------------------------------------------------------- |:----|
-|     [**1**](https://docs.google.com/presentation/d/1t-vbBpHFr04JMAY2noitCjHJ8nUuStIdLBCYawHkvuU/edit?usp=sharing)     |   45    | Create a wireframe for an original webpage |
-|     [**2**](https://docs.google.com/presentation/d/1mZ9-9ZSlbmKzmlIiF0sM63Yi-JqFY2M7iYsT3Hj4iyU/edit?usp=sharing)     |   45    | Use the properties of the box model to change how elements are displayed on the webpage.         |
-|     [**3**](https://docs.google.com/presentation/d/1szZo5jASRtqPh8taug1aUSks3bPdfAmICis2xDzfS5g/edit?usp=sharing)     |   45    | Use div elements to group and organize elements on a webpage.           |
-|     [**4**](https://docs.google.com/presentation/d/1olMgwi5ARIPFPCFIBufGdpB4pYeC5AqBn7uqhPfS8Hs/edit?usp=sharing)     |   45    | Use flexbox to align elements horizontally on a webpage       |
-|     [**5**](https://docs.google.com/presentation/d/1m6H8CYpmEdrIkOdOjUt1-oelaEnxPwsTeCoANK3GX_Q/edit?usp=sharing)     |   45    | Use multiple class attributes to style specific classes of elements on a webpage.|
-| [**6 (Project)**](https://docs.google.com/presentation/d/1SueR9b1X45t-rp2OGfrMaesSOv5iPmQ5K3Yr7kUIkTk/edit?usp=sharing) |  45x2   | Create an original webpage that utilizes layout and positioning skills (Group Project)  |
+|     [**1 (Tech and Society)**]()     |   45    | Explore and discuss issues related to diversity in the tech industry |
+|     [**2**]()     |   45    | Review key concepts from Units 2 and 3.         |
+|     [**3**]()     |   45    | Demonstrate their coding skills by completing a Mid Year Challenge          |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
