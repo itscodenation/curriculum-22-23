@@ -1,18 +1,16 @@
-# Coding Fellowship I, 21-22
+# Coding Fellowship I, 22-23
 
 ## Scope and Sequence
 
 | Unit                                                                                        | Overview                                                                                                                                                                                                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1: Portfolios (Individual)**](units/unit1)                                                            | <ul><li>Describe the course routines and procedures and review HTML/CSS</li><li>Navigate Glitch and review HTML/CSS</li><li>Learn to upload and link files </li><li>Complete professional portfolios using HTML and CSS</li><li>Review key jQuery and JavaScript concepts</li> <ul> |
-|[**2: Rock, Paper, Scissors (Group)**](units/unit2)                                                 | <ul><li>Use jQuery to interact with user input and string interpolation to display JavaScript on the page</li> <li>Generate a random number using Math functions</li><li>Apply global and local scope in order to solve a problem</li> <li>Write basic conditional statements</li><li>Write a compound conditional statement using && and  . </li><li>Declare a function that returns a value</li><li>Declare a function that takes parameters</li></ul> |
-| [**3: Resumes, Interviewing, Time Management, LinkedIn, and Imposter Syndrome**](units/unit3)               | <ul><li>Use a time management strategy to organize their time.</li><li>Develop and maintain a strong LinkedIn profile to highlight their experience and skills and build their network.</li><li>Understand what impostor syndrome is and how to deal with it </li></ul>| 
-| [**4: Playlist (Individual)**](units/unit4) | <ul><li>Create an array and retrieve an array element using the index.</li><li>Iterate over an array</li><li>Utilize array methods</li><li>Create and access data from an object</li><li>Update an object</li></ul>                                                                                                                                |
-| [**5: HackerRank, Scholarships, Career Panel, and Networking**](units/unit5)                                              | <ul><li>Demonstate their technical ability through a HackerRank assessment.</li><li>Update their professional portfolios with projects that showcase their technical ability.</li> <li>Use their resources to research and apply for career opportunities and scholarships.</li><li>Articulate a pathway to a career in technology</li></ul>|
-| [**6: Giphy Project (Group)**](units/unit6) | <ul><li>Make an API request and handle a JSON API response</li><li>Identify parts of an API request and be able to customize it</li><li>Update their project to create a better user expereince.</li> </ul>   |
-| [**7: Whiteboarding and Independent Problem Solving**](units/unit7)  | <ul><li>Demonstrate independent problem solving skills and communicate computational thinking through whiteboarding activities</li><li>Discuss how to build confidence and a sense of belonging within the tech industry</li></ul> |
-| [**8: Client Project (Group)**](units/unit8) |<ul><li>Engage in collaborative brainstorming to build consensus around a project idea.</li> <li>Create a project plan to accomplish specific tasks within a predetermined amount of time.</li><li>Engage in sustained coding and apply technical skills to develop and design a webapp for their client.</li><li>Complete their Client Project and prepare for presentations </li></ul> |
-|[**9: EOY Unit**](units/unit9) | <ul><li>Complete their professional portfolios with projects that showcase their technical ability.</li><li>Review key concepts learned over the course of the year.</li> <li>Demonstate their technical ability through a HackerRank challenge.</li><li>Deliver an engaging presentation</li><li>Develop, maintain and grow relationships beyond their Code Nation experience.</li><li>Celeberate the end of the program and demostrate exemplar projects</li></ul> |
+| [**1: JavaScript Fundamentals I (Individual)**](units/unit1)                                                            | Students will learn fundamental JavaScript concepts including variables, event handlers, DOM manipulation, and conditionals to create several web apps. |
+|[**2: Playlist (Individual)**](units/unit2)                                                 | Students will learn about functions, arrays, and loops to create a Playlist web app. |
+| [**3: Mid Year Unit**](units/unit3)              | Students will complete a HackerRank coding challenge, and create a professional portfolio to house thier projects.| 
+| [**4: Games for Social Justice (Group)**](units/unit4) | Students will work in groups to create an educational game for a cause they're passionate about                                                                                                                               |
+| [**5: Client Project (Group)**](units/unit5)                                              |Students will collaborate in teams to create a client project combining all the skills they've learned throughout the year.|
+| [**6: End of Year Unit**](units/unit6) | Students will take an End of Year HackerRank coding challenge, and  present their client projects in a stunning showcase!  |
+
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
@@ -22,24 +20,7 @@
 ---
 
 **Special Shoutout to the Curriculum Council**:
-Adam Pirani,
-Brian Clanton,
-Bridget Bailey,
-Edgar Muentes,
-Faran Jessani,
-Gabbie Piraino
-Gilbert Ghang,
-Jason Alvarez,
-Jenna Van Conett,
-Justine Bulaong,
-Karina Montiel,
-Mark Griffith,
-Paul Fielek,
-Paul Hurlock-Dick,
-Paulina Miller,
-Pratik Pramanik,
-Tahmid Rahmid, and
-Xavi Ramirez
+
 
 
 
