@@ -3,7 +3,7 @@
 ## Overview
 
 In this unit, coders will review HTML and CSS concepts from the Intro to Web Development course, and learn how to write using native JavaScript. Coders will also learn how to navigate a new IDE.
-[**FLW Unit 1 Guide**]()
+[**FLW Unit 1 Guide**](https://docs.google.com/document/d/1RPVhRLfTZDQDZfYq58KfkraBin73tbGLPEsl5r_oQSw/edit#)
 ## Sessions
 
 |                                               Session Slides                                                 | _Coders will be able to ..._                                                |
