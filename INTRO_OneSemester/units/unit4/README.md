@@ -1,4 +1,4 @@
-# Unit 4: Mid Year Unit
+# Unit 4: End of Year Unit
 [**Unit 4 Objectives & Lesson Plans**]() 
 |                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                        |
 | :-----: | :--------------------------------------------------------------------------------------- |:----|
