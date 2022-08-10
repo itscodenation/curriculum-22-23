@@ -16,8 +16,8 @@
 | [**11**](https://docs.google.com/presentation/d/1yhtV-mTfVPum813oP3_R4vsyaJTERAx-VuA9XoGVKWs/edit?usp=sharing) |   45    |**Lab Day**</br>Use Flexbox to align elements horizontally on a page|
 | [**12(Tech and Society)**](https://docs.google.com/presentation/d/1_I2ZJ2OotQ0CI7egrpXzwE74oJvGmNAD0XYm9b0HArE/edit?usp=sharing) |   45    |**Lab Day**</br>Increase the accessibility of their websites by improving color contrast and adding alt tags |
 | [**13**](https://docs.google.com/presentation/d/1hYYTrYt_x82T76ZTaVj7SIK-bCppeZ9Y7Y7rAa46utA/edit#slide=id.gddba4abcce_0_0) |   45    |**Full Lab Day**</br>Give their peers feedback on their websites</br>Use their project plans, feedback, and documentation to complete their Unit 2 projects |
-| [**15**](https://docs.google.com/presentation/d/1roRyQWuMm9Ee7EOPnTcvk0Dwht14kWGgG2PCsU-LNhY/edit?usp=sharing) |   45    |**Presentation Day**</br>Showcase their Unit 2 websites to an audience! |
-| [**16**]() |   45    |**Assessment Day**</br>Demonstrate their coding skills by completing a coding challenge assessing Unit 2 concepts. |
+| [**14**](https://docs.google.com/presentation/d/1roRyQWuMm9Ee7EOPnTcvk0Dwht14kWGgG2PCsU-LNhY/edit?usp=sharing) |   45    |**Presentation Day**</br>Showcase their Unit 2 websites to an audience! |
+| [**15**]() |   45    |**Assessment Day**</br>Demonstrate their coding skills by completing a coding challenge assessing Unit 2 concepts. |
 
 
 ---
