@@ -11,6 +11,7 @@
 | [**6**]() |   45  |**Content-Only Day**</br>Use array methods and properties   |
 | [**7**]() |   45  |**Full Lab Day**</br>Develop their  project by adding loops and array methods     |
 | [**8**]() |   45  |**Full Lab Day**</br>Develop their  project by adding loops and array methods       |
+| [**8**]() |   45  |Demonstrate their coding skills by completing a coding challenge assessing Unit 6 concepts     |
 
 
 ---
