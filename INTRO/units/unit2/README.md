@@ -1,5 +1,5 @@
 # Unit 2: HTML + CSS 
-[**Unit 2 Objectives & Lesson Plans**]()
+[**Unit 2 Objectives & Lesson Plans**](https://docs.google.com/document/d/16Zkw1nx4RcCzxKJXPypLN329cmURgEOjwQyWXcYTcTw/edit)
 |                                              Lesson                                                     | Minutes | Objectives<br> _Coders will ..._                                            |
 | :-----------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------- |
 | [**1**](https://docs.google.com/presentation/d/1fRWr9SU_UNkoYx8DJWvLNJSM5t42yNIY7pyqeNDcJQ8/edit#slide=id.g13d702a8fb5_2_0) |   45    | **Entry Day**</br>Learn about the Unit 2 project</br>Begin building their Unit 2 project by filling out the project plan.                                       |
