@@ -1,5 +1,5 @@
 # Unit 3: Intro to JavaScript
-[**Unit 3 Objectives & Lesson Plans**]()
+[**Unit 3 Objectives & Lesson Plans**](https://docs.google.com/document/d/1QvC4q_VDzAahjzoibqIk3YfTQFa34NLDLsPO6DL2LDQ/edit)
 |                                                     Lesson                                                        | Minutes | Objectives <br> _Coders will ..._                                                             |
 | :-----------------------------------------------------------------------------------------------------------------: | :-----: | :-------------------------------------------------------------------------------------------- |
 |    [**1**](https://docs.google.com/presentation/d/1lB5DP5c2qk-vcfCv2SIBuAEkDo7C4oZasbRv8hMFGM0/edit?usp=sharing)    |   45    |**Entry Day**</br>Define JavaScript and identify the ways it can be used</br>Learn about our Unit 3 project!    |
