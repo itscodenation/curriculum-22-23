@@ -14,7 +14,7 @@
 | [**9**](https://docs.google.com/presentation/d/1da01N3HYjW13-TkGg5JFIzzxtCYu-UbjuLiUTWhHGNs/edit#slide=id.gddba4abcce_0_0)   |   45    |**Full Lab Day**</br>Use their project plans and coding skills to build their Unit 3 project. |
 | [**10**](https://docs.google.com/presentation/d/16M-0e_pWu7NtQ0dtFr7udIPGAH6RNGdZn05cF7S0Igk/edit?usp=sharing)   |   45    |**Full Lab Day**</br>Use their project plans and coding skills to build their Unit 3 project. |
 | [**11**](https://docs.google.com/presentation/d/125HOkoo_gr5e-2HpxXshJdOuxUeBsqVALg7Yp_mKAVk/edit?usp=sharing)   |   45    |**Presentation Day**</br>Showcase their Unit 3 Choose Your Own Adventure projects to an audience!  |
-| [**12**](https://docs.google.com/presentation/d/125HOkoo_gr5e-2HpxXshJdOuxUeBsqVALg7Yp_mKAVk/edit?usp=sharing)   |   45    |**Assessment Day**</br>Demonstrate their coding skills by completing a coding challenge assesing Unit 3 concepts   |
+| [**12**](https://docs.google.com/presentation/d/1oFjjtQw6Az23_MrX47OvMv6qBsjLvQkLsFbelCD1-Cg/edit#slide=id.gddba4abcce_0_0)   |   45    |**Assessment Day**</br>Demonstrate their coding skills by completing a coding challenge assesing Unit 3 concepts   |
 
 
 
