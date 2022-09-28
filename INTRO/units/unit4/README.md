@@ -2,7 +2,8 @@
 [**Unit 4 Objectives & Lesson Plans**]() 
 |                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                        |
 | :-----: | :--------------------------------------------------------------------------------------- |:----|
-|     [**1 (Tech and Society)**]()     |   45    | Explore and discuss issues related to diversity in the tech industry |
+|     [**1(https://docs.google.com/presentation/d/1btutuz5MAT4ICJe_5HpLdN5CQzp3--6E8qIuO1OpoaQ/edit#slide=id.g5d1f893d8e_0_32)     |   45    | Export projects to a shareable online portfolio through Github. |
+|     [**2 (Tech and Society)**](https://docs.google.com/presentation/d/1ngrOojgfFf1WZcxTVJo7UDrUQCFK2blG6uuSVZjLPcs/edit#slide=id.gb8097a2dd7_0_202)     |   45    | Explore and discuss issues related to diversity in the tech industry |
 
 
 ---
