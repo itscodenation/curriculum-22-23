@@ -1,22 +1,22 @@
-# Unit 5: Client Project
+# Unit 4: Client Project
 
 ## Overview
 
-In this unit, students will collaborate with a group to create a project for a client (either Code Nation or their Fellowship host company). This project will use all the skills they've learned throughout the year! 
+In this unit, students will collaborate with a group to create a project for a client: Code Nation! They will create a game or interactive learning experience for Intro to Web Development students based around a Tech and Society topics. 
 
-[**FLW Unit 5 Guide**]()
+[**FLW Unit 4 Guide**]()
 ## Sessions
 
 |                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
 | :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**1**]() |Professional Skills Spotlight: Refine their Linkedin and resumes.</br>Professional Skills Spotlight: Engage in networking with other professionals.</br>Professional Skills Spotlight: Articulate a pathway to a career in technology by participating in a panel  |
-| [**2**]() |Collaborate with peers to wireframe and plan a client web app |
-| [**3**]() | Develop a client project by adding HTML, CSS, and JavaScript|
+| [**2**]() |Collaborate with peers to wireframe and plan a client project |
+| [**3**]() | Engage in sustained coding and apply technical skills to develop client project|
 | [**4**]() | Make an API request and handle a JSON response|
-| [**5**]() | Engage in sustained coding and apply technical skills to develop and design a webapp for their client.|
-| [**6**]() |Engage in sustained coding and apply technical skills to develop and design a webapp for their client. |
-| [**7**]() |Engage in sustained coding and apply technical skills to develop and design a webapp for their client. |
-| [**8**]() |Complete their client web app/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
+| [**5**]() | Engage in sustained coding and apply technical skills to develop client project|
+| [**6**]() |Engage in sustained coding and apply technical skills to develop client project |
+| [**7**]() |Engage in sustained coding and apply technical skills to develop client project |
+| [**8**]() |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQPPd3u1y_vV9426DjRjgzQHrzsMAIbdsGCxEU5uRj3bTleQ/viewform?usp=sf_link">Submit Your Feedback and Ideas</a></h3>
