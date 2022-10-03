@@ -15,7 +15,7 @@
 | [**11**](https://docs.google.com/presentation/d/1jefBoUaftuZ-22JZ42fuNs7OHyVKMs9T9bL2hOB8WrM/edit#slide=id.gddba4abcce_0_0) |   45    |**Full Lab Day**</br>Use their project plans, feedback, and documentation to complete their Unit 2 projects |
 | [**12**](https://docs.google.com/presentation/d/1mQvP55BWZiU4Cjk0fGa4pIuRiTnWo8DqZPuPMfHD33k/edit#slide=id.gddba4abcce_0_0) |   45    |**Full Lab Day**</br>Use their project plans, feedback, and documentation to complete their Unit 2 projects |
 | [**13**](https://docs.google.com/presentation/d/1AQGsARL6qaL73MIvDvRtPQFlcUnX5Ov5c-cWrrSBxoM/edit#slide=id.gddba4abcce_0_0) |   45    |**Presentation Day**</br>Showcase their Unit 2 websites to an audience!</br> Learn about Github and export their Unit 2 project to it |
-| [**14**]() |   45    |**Assessment Day**</br>Demonstrate their coding skills by completing a coding challenge assessing Unit 2 concepts. |
+| [**14**](https://docs.google.com/presentation/d/12AJNog-bSdr5rn3bVR1RwPL4qO1rqyadxXU4M9ehb1M/edit#slide=id.gddba4abcce_0_0) |   45    |**Assessment Day**</br>Demonstrate their coding skills by completing a coding challenge assessing Unit 2 concepts. |
 
 
 ---
