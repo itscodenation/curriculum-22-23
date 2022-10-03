@@ -8,7 +8,7 @@
 |[**2: Playlist (Individual)**](units/unit2)                                                 | Students will learn about functions, arrays, and loops to create a Playlist web app. |
 | [**3: Mid Year Unit**](units/unit3)              | Students will complete a HackerRank coding challenge, and create a professional portfolio to house their projects.| 
 | [**4: Client Project (Group)**](units/unit5)                                              |Students will collaborate in teams to create a client project combining all the skills they've learned throughout the year.|
-| [**6: End of Year Unit**](units/unit6) | Students will take an End of Year HackerRank coding challenge, and  present their client projects in a stunning showcase!  |
+| [**5: End of Year Unit**](units/unit6) | Students will take an End of Year HackerRank coding challenge, and  present their client projects in a stunning showcase!  |
 
 
 ---
