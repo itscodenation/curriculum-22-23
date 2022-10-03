@@ -4,7 +4,7 @@
 
 Students will take an End of Year HackerRank coding challenge, and present their client projects in a stunning showcase!
 
-[**FLW Unit 6 Guide**]()
+[**FLW Unit 5 Guide**]()
 
 ## Sessions
 
