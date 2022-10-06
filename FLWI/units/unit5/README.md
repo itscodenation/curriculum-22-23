@@ -15,8 +15,7 @@ In this unit, students will collaborate with a group to create a project for a c
 | [**4**]() | Make an API request and handle a JSON response|
 | [**5**]() | Engage in sustained coding and apply technical skills to develop client project|
 | [**6**]() |Engage in sustained coding and apply technical skills to develop client project |
-| [**7**]() |Engage in sustained coding and apply technical skills to develop client project |
-| [**8**]() |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
+| [**7**]() |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQPPd3u1y_vV9426DjRjgzQHrzsMAIbdsGCxEU5uRj3bTleQ/viewform?usp=sf_link">Submit Your Feedback and Ideas</a></h3>
