@@ -1,8 +1,8 @@
-# Mid Year Unit: Mid-Year
+# Unit 3: Mid-Year
 
 ## Overview
 
-In this unit, students will be able to demonstrate their technical ability by participating in a HackerRank challenge and work on their portfolios.
+In this unit, students will be able to demonstrate their technical ability by participating in a HackerRank challenge. They will have a chance to attend a panel on careers and tech and to present their Unit 2 projects as well!
 
 ## Sessions
 
