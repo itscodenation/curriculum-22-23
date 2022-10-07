@@ -4,32 +4,28 @@
 
 | Unit                                                                                        | Overview                                                                                                                                                                                                                                                                                                                                                                                 |
 | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1: Introduction to Fellowship II**](units/unit1)                                                            | <ul><li>Describe the course routines and procedures and review core JavaScript skills</li></ul>                                                                                                                                     |                                                                                                            
-| [**2: Trivia Project**](units/unit2)                                                 | <ul><li>Set up a project from a repository using Code Sandbox</li><li>Navigate the HackerRank platform to complete in-class assignments</li><li>Ask technical questions with tools</li><li>Use conditionals, arithmetic and loops to change what is displayed on the screen</li><li>Read provided code snippets and explain how it behaves</li><li>Use a gist tool to read and analyze code snippets</li><li>Use functions to organize code</li><li>Read peers' code and provide constructive feedback</li><li>Use a gist tool to review peers' code snippets</li><li>Use functions to modify objects</li><li>Explore the Chrome developer tools</li><li>Prepare for a presentation in a remote setting</li></ul> |
-| [**Skills Day 1**](units/singleDayLesson) | <ul><li>Articulate a pathway to a career in technology</li><li>Communicate technical knowledge to a technical and non-technical audience</li></ul>                                                                                                                                                 |
-| [**3: Trivia**](units/unit3)                                                         | <ul><li>Explain the purpose of the React framework</li><li>Create and render a React component with props to pass data between components</li><li>Write JSX</li><li>Render a nested component</li><li>Use and update state</li><li> Use the React developer Chrome extension for state or props</li><li>Pass a function as a prop</li><li>Register an event handler</li><li>Import/export and refactoring React components into separate files</li></ul>                                                                                                                                       |                                                                       
-| [**Mid-Year Unit**](units/midYearUnit)| <ul><li>Articulate a pathway to a Career in Technology</li><li>Update professional work products (Resume, Portfolios, LinkedIn, and GitHub)</li><li>Able to demonstrate their technical skills through a HackerRank Challenge.</li> <li>Present a project to a technical and non-technical audience</li></ul>                                                                                                                                                     |
-| [**4: Multiplayer Game**](units/unit4)                                                              | <ul><li>Engage in collaborative brainstorming to build consensus around a project idea.</li><li>Create a project plan to accomplish specific tasks within a predetermined amount of time.</li><li>Set up a React App. </li><li>Explore React boilerplate code. </li><li>Design and implement a data model. </li><li>Identify props. </li><li>Explain why props are used in React components. </li><li>Use multiple props in a React component. </li><li>Identify state in a given component. </li><li>Register an event handler. </li><li>Use conditionals to draw components and interact with CSS. </li><li>Use loops to generate multiple components on the website. </li> <li>Use unidirectional data flow to pass down data and functions as React props.</li><li>Prepare to present a project in a remote setting</li></ul>                                                                                                                                |
-| [**EOY Unit**](units/eoyunit)                                                              | <ul><li>Able to demonstrate their technical skills through a HackerRank Challenge.</li> <li>Update professional work products (Resume, Portfolios, LinkedIn, and GitHub)</li><li>Present a project to a technical and non-technical audience</li><li>Celebrate their Fellowship II experience</li> </ul>                                                                                                                                                      |
+| [**1: Introduction to Fellowship II**](units/unit1)                                                            | <p>Describe the course routines and procedures and review core JavaScript skills</p>                                                                                                                                    |                                                                                                            
+| [**2: Trivia Project**](units/unit3)                                                 | <p> Students will learn about key React concepts such as components, JSX, props, and state to build a trivia game! </p>|
+
+| [**3: Mid Year Unit**](units/midYearUnit)                                                         | <p>Student will show off their coding skills by completing the HackerRank Challenge and will have a chance to participate in a career panel.</p>                                                                                                                                   |                                                                       
+| [**4: Capstone Projectt**](units/unit4)| <p>Students will create a game of their choice using React to cap off their year! </p>                                                                                                                                                 |
+
+| [**5:End of Year Unit**](units/eoyunit)                                                              | <p> Students will end the year practicing their their ability to talk through code, and by showing off their Capstone projects!                                                                                                                                                      |
 
 ---
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-22-23/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---
 
-**Special Shoutout to the Fellowship Volunteers that spent countless hours developing this curriculum.**:
+**Special Shoutout to the Fellowship Volunteers who helped with curriculum development!.**:
 Faran Jessani, 
-Joe Tessler, 
-Andrew Vorwald, 
-Daniel Calise, 
-Edgar J. Muentes, 
-Stanislav Kutyepov, 
-Matthew B. Schupack, 
-Kevin Dou
+Matt Wojcieszek, 
+Yining Chen, 
+Nicki Anselmo
 
 <br>
 <p> <img src="https://i.imgur.com/lYodTLP.png?1" ></p>
