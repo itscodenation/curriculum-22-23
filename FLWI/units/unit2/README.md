@@ -20,7 +20,7 @@ In this unit, coders will create a Playlist web app.  The Playlist will display 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQPPd3u1y_vV9426DjRjgzQHrzsMAIbdsGCxEU5uRj3bTleQ/viewform?usp=sf_link">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-22-23/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---
 ---
