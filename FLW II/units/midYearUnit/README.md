@@ -9,7 +9,7 @@ In this unit, students will be able to demonstrate their technical ability by pa
 |                                                Session Slides                                                 | _Professionals will be able to ..._                                                |
 | :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------- |
 | [**1**]() | <ul><li>Demonstrate their technical skills through a HackerRank Challeng</li><li>Update professional work products</li></ul>     |
-| [**2**]() | <ul><li></li><li>Present a project to a technical and non-technical audience</li><li>Engage in a networking activity with tech professionals </li></ul>     |
+| [**2**]() | <ul><li>Present a project to a technical and non-technical audience</li><li>Engage in a networking activity with tech professionals </li></ul>     |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
