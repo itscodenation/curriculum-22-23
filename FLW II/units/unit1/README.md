@@ -8,7 +8,7 @@ In this unit, coders will learn the program expectations, session structure, do 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**]()|<li>Describe the course routines and procedures</li>|N/A|
+|[**1**](https://docs.google.com/presentation/d/1VHlXZb_3o3VMUN0RISsI5_LuYyqzspKzvg0djF3l7y8/edit#slide=id.g15edb343290_1_644)|<li>Describe the course routines and procedures</li>|N/A|
 |[**2**]()|<li>Navigate using the CodeSandbox IDE</li><li>Review variables and conditionals</li>|N/A|
 |[**3**]()|<li>Review how to declaree and call functions in JavaScript</li>|N/A|
 |[**4**]()|<li>Review how to store and access data in arrays and objects|N/A|
