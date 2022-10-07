@@ -3,7 +3,7 @@
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                    |
 | :-----: | :------------------------------------------------------------------- |:-----|
 | [**1**](https://docs.google.com/presentation/d/1qnmy9JKS6K-pdOiKuIRqOXcWUO2icZVup1NX64uRrFk/edit#slide=id.g12008da9496_0_1663) |   45    |**Entry Day**</br>Learn about the Unit 5 project</br>Complete project plan                       |
-| [**2**]() |   45    |**Full Lab Day**</br> Customize starter code for Unit 5 project by using HTML, CSS, and JavaScript  |
+| [**2**](https://docs.google.com/presentation/d/1mznmPed5H04pZ_iWp-wAGGHSLtqD4o7dgckMRe_PseA/edit#slide=id.gf44005cbe9_0_599) |   45    |**Full Lab Day**</br> Customize starter code for Unit 5 project by using HTML, CSS, and JavaScript |
 | [**3**]() |   45  |**Lab Day**</br>Save user input by using the .value property     |
 | [**4**]() |   45  |**Content-Only Day**</br>Use string concatenation to manipulate strings and variables.   |
 | [**5**]() |   45  |**Content-Only Day**</br>Create basic conditional statements    |
