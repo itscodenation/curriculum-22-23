@@ -8,10 +8,15 @@ In this unit, coders will learn the program expectations, session structure, do 
 ## Sessions 
 |Session Slides|*Coders will be able to ...*|External Resources
 |:-------:|-------|:-------:|
-|[**1**](https://docs.google.com/presentation/d/1YtD5KtauXjp8KfQ3ADUvamc1JTE4edq5-x2VvCkB6AM/edit#slide=id.ge80e224bf9_0_295)|<li>Describe the course routines and procedures</li><li>Review core Javascript skills</li>|N/A|
+|[**1**]()|<li>Describe the course routines and procedures</li>|N/A|
+|[**2**]()|<li>Navigate using the CodeSandbox IDE</li><li>Review variables and conditionals</li>|N/A|
+|[**3**]()|<li>Review how to declaree and call functions in JavaScript</li>|N/A|
+|[**4**]()|<li>Review how to store and access data in arrays and objects|N/A|
+|[**5**]()|<li>Review how to iterate over arrays using loops</li>|N/A|
+|[**6**]()|<li>Attend a panel of Code Nation alumni to learn more about options to continue tech education after school</li><li>Learn about professional skills development in FLWII / Develop their portfolio </li>|N/A|
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
-## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-21-22/wiki">Check out the Wiki for Additional Resources</a></h3>
+## <h3 align="center"><a href="https://github.com/itscodenation/curriculum-22-23/wiki">Check out the Wiki for Additional Resources</a></h3>
 
 ---
