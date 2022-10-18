@@ -1,4 +1,4 @@
-# Unit 2: Trivia
+# Unit 3: Trivia
 
 ## Overview
 In this unit, coders will work in groups to build a project using React. Their task is to build out the front-end for a Kahoot style question game that displays a question and the possible answers, allows a user to choose answer and determine whether they are right or wrong. This project is intended to highlight some important aspects of goal setting and project management. Students will present their projects in Unit 3!
