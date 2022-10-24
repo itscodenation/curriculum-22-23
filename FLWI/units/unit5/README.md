@@ -11,8 +11,8 @@ In this unit, students will collaborate with a group to create a project for a c
 | :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**1**]() |Professional Skills Spotlight: Refine their Linkedin and resumes.</br>Professional Skills Spotlight: Engage in networking with other professionals.</br>Professional Skills Spotlight: Articulate a pathway to a career in technology by participating in a panel  |
 | [**2**]() |Collaborate with peers to wireframe and plan a client project |
-| [**3**]() | Engage in sustained coding and apply technical skills to develop client project|
-| [**4**]() | Make an API request and handle a JSON response|
+| [**3**]() |Make an API request and handle a JSON response|
+| [**4**]() |Engage in sustained coding and apply technical skills to develop client project|
 | [**5**]() | Engage in sustained coding and apply technical skills to develop client project|
 | [**6**]() |Engage in sustained coding and apply technical skills to develop client project |
 | [**7**]() |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
