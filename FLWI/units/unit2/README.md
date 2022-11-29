@@ -9,7 +9,7 @@ In this unit, coders will create a Playlist web app.  The Playlist will display 
 
 |                                                                    Session Slides                                                                     | _Coders will be able to ..._                                |
 | :-----------------------------------------------------------: |:-----|
-|                     [**1**](https://docs.google.com/presentation/d/19CgCqSjJP6Wt4t9NFpeXOY8NUGOcvDsooY3Wm2SPNjc/edit#slide=id.g143a898e5ec_0_651)                     | - Declare a function that returns a value.</br> - Coding Best Practices Highlight: Using Comments in Code |
+|                     [**1**](https://docs.google.com/presentation/d/19CgCqSjJP6Wt4t9NFpeXOY8NUGOcvDsooY3Wm2SPNjc/edit#slide=id.g143a898e5ec_0_651)                     | - [ ] Declare a function that returns a value.</br> - [ ] Coding Best Practices Highlight: Using Comments in Code |
 |                     [**2**](https://docs.google.com/presentation/d/1rfP67LxNncNqkR6BfnHC1EX2oh5IewygYZJfj66FqGU/edit#slide=id.g143ab54c58a_0_639)                     | Declare a function that takes parameters.      |
 |                     [**3**](https://docs.google.com/presentation/d/1tcGziqBZJ3GT4zTvYWmWhSAtrdU4tDszlLP4jl-DIaU/edit#slide=id.g143b783a67c_1_639)                     | Create an array and retrieve data using the array index.</br>Complete a project plan.        |
 |                     [**4**](https://docs.google.com/presentation/d/1x2Y4vfF5nlWE32dN5DRwJtUzUbLPV_7N5gnjzqkCEMw/edit#slide=id.g1453263ef45_0_639)                     | Iterate over an array using for and forEach loops.</br>Professional Skills Highlight: Discuss problem solving strategies and the importance of perserverance in coding.        |
