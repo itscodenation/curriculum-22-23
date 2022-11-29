@@ -4,7 +4,7 @@
 
 In this unit, coders will create a Playlist web app.  The Playlist will display a list of information about different songs with images and links to play the songs. To create this project, coders will create arrays to hold song information, use a for of loop to iterate over the arrays, and display data to the screen. They will use .push to add new songs to their playlist. Then, students will refactor their project to using objects instead of arrays to hold their data.
 
-[**FLW Unit 2 Objectives & Lesson Plans**]()
+[**FLW Unit 2 Objectives & Lesson Plans**](https://docs.google.com/document/d/1KVjvjYfG5Xvx9Khr3QfdfNoKdrkfDT_DcI3uF35dwQ4/edit)
 ## Sessions
 
 |                                                                    Session Slides                                                                     | _Coders will be able to ..._                                |
