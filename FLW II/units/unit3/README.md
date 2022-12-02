@@ -14,7 +14,7 @@ In this unit, coders will work in groups to build a project using React. Their t
 |[**7**]()|<ul> <li>**Review:** Passing a function as a prop and registering an event handler in React</li></ul>|
 |[**8**]()| <ul><li>Import and export React components</li></ul>|
 |[**9(Optional)**]()| <ul><li>Complete Trivia Project</li></ul>|
-|[**10**]()| <ul><li>Prepare for and practice a project presentation</li><li>Update their Linkedin profiles/ Update their Github and professional portfolio with new projec</li></ul>|
+|[**10**]()| <ul><li>Prepare for and practice a project presentation</li><li>Update their Linkedin profiles</li><li>Update their Github and professional portfolio with new project</li></ul>|
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
