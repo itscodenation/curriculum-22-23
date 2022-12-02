@@ -5,7 +5,7 @@
 | [Intro to Web Development](INTRO)      | The focus of this course is **Exposure**. In this course, students are introduced to HTML, CSS and JavaScript. By the end of the course, students will be able to make simple webpages that involve fundamental JavaScript concepts. |
 | [Intro to Web Development [ONE SEMESTER]](INTRO_OneSemester)      | Please use this curriculum portal if you're teaching an Intro class that is **ONLY one semester.** It still reviews HTML, CSS, and JavaScript, but due to the shorter length, has a slightly different number and order of lessons. |
 | [The Code Nation Fellowship I](FLWI)   | The focus of this course is **Experience**. In this course, students will further develop their technical skills by building complex projects using JavaScript and APIs. Students will also build their professional skill set and work products.                                                          |
-| [The Code Nation Fellowship II](FLW%20II) | The focus of this course is **Agency**. In this course, students will learn the fundamentals of ReactJS, continue to develop their knowledge of computer science principles, augment their professional development skills and increase their coding independence. |
+| [The Code Nation Fellowship II](FLW%20II) | The focus of this course is **Agency**. In this course, students will learn the fundamentals of ReactJS, continue to develop their knowledge of computer science principles, enhance their professional development skills, and increase their coding independence. |
 
 ---
 
