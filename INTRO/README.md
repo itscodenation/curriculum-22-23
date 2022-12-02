@@ -39,7 +39,7 @@ Kenny Zhang,
 Patrick Hurtado,
 Razzi Abuissa,
 Shahar Goldfinger,
-Terence Yang
+Terence Yang,
 Zainab Ebrahimi
 
 
