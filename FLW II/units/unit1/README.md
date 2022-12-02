@@ -13,7 +13,7 @@ In this unit, coders will learn the program expectations, session structure, do 
 |[**3**]()|<li>Review how to declaree and call functions in JavaScript</li>|N/A|
 |[**4**]()|<li>Review how to store and access data in arrays and objects|N/A|
 |[**5**]()|<li>Review how to iterate over arrays using loops</li>|N/A|
-|[**6**]()|<li>Attend a panel of Code Nation alumni to learn more about options to continue tech education after school</li><li>Learn about professional skills development in FLWII / Develop their portfolio </li>|N/A|
+|[**6**]()|<li>Attend a Code Nation alumni panel to learn more about options to continue tech education after school</li><li>Learn about professional skills development in FLWII and develop their portfolio </li>|N/A|
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc4oUNSthmU63TqlzUOOWd3buX3tGVIPRNDm0tsLB_nOONRLQ/viewform">Submit Your Feedback and Ideas</a></h3>
 
