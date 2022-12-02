@@ -7,7 +7,7 @@ In this unit, coders will work in groups to build a project using React. Their t
 |:-------:|-------|
 |[**1**]()|<ul><li>Explain the purpose of the React framework.</li></ul>|
 |[**2**]()|<ul><li>Create and render a React component with props to pass data between components</li><li>Write JSX</li></ul> |
-|[**3**]()|<ul><li>**Review**:Create and render a React component with props to pass data between component, and writing JSX</li></ul>|
+|[**3**]()|<ul><li>**Review:** Create and render a React component with props to pass data between component, and writing JSX</li></ul>|
 |[**4**]()|<ul><li>Use and update state</li></ul>|
 |[**5**]()|<ul><li>**Review:** Using and updating state in React</li></ul>|
 |[**6**]()|<ul><li>Pass a function as a prop</li><li>Register an event handler</li></ul>|
