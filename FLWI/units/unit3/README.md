@@ -9,10 +9,10 @@ Students will complete a HackerRank coding challenge, and create a professional 
 
 |                                                Session Slides                                                 | Professionals will be able to ..._                                                            |
 | :-----------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------- |
-| [**1**]() | Demonstrate their technical ability by participating in a coding challenge  |
-| [**2**]() |Develop a professional portfolio</br>Coding Best Practices Highlight: Adding multiple files and naming them appropriately |
-| [**3**]() |Develop a professional portfolio |
-| [**4**]() | Create a resume and a LinkedIn profile.</br>Professional Mindsets Spotlight: Understand what imposter syndrome is and how to deal with it.</br>*If time:* Finishing developing their professional portfolio. |
+| [**1**](https://docs.google.com/presentation/d/1cIN93dK90wdSLf6Zdee_0eiynkx1Qe5DabIlBqe-W5k/edit#slide=id.g13ceb08e073_0_0) | Demonstrate their technical ability by participating in a coding challenge  |
+| [**2**](https://docs.google.com/presentation/d/1Cnf1OUPeQfrojdPBHAS0FDil4qoPW-Gqt_l5jcxQN6I/edit#slide=id.g13d3013bb85_0_36) |Develop a professional portfolio</br>Coding Best Practices Highlight: Adding multiple files and naming them appropriately |
+| [**3**](https://docs.google.com/presentation/d/1aFf3BmT58F26m-pmmOM8-hsIqhHcedT-KsdWhzN_vPc/edit#slide=id.g13d2afbaf6e_0_1313) |Develop a professional portfolio |
+| [**4**](https://docs.google.com/presentation/d/1qM20a2q8qsUx5vXSNVJumzsnCy39PAkiViXU3DH-c_U/edit#slide=id.g136a2fbb9af_0_58) | Create a resume and a LinkedIn profile.</br>Professional Mindsets Spotlight: Understand what imposter syndrome is and how to deal with it.</br>*If time:* Finishing developing their professional portfolio. |
 
 
 ---
