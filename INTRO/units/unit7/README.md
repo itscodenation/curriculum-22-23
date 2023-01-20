@@ -2,9 +2,8 @@
 [**Unit 7 Objectives & Lesson Plans**]()
 |                                                 Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                    |
 | :-----: | :------------------------------------------------------------------- |:-----|                                                 
-|[**1**]()     |   45    | Demonstrate their coding skills by completing a coding challenge assessing Unit 6 concepts                    |
-|     [**2**]()     |   45    | Export projects to a shareable online portfolio through Github.                                           |
-|     [**3**]()     |   45    | Celebrate their accomplishments and growth by participating in an end of year celebration |
+|[**1**]()     |   45    |  Celebrate their accomplishments and growth by participating in an end of year celebration               |
+
 
 
 ---
