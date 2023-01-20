@@ -4,7 +4,7 @@
 Students will complete a HackerRank coding challenge, and create a professional portfolio to house thier projects. They will also create a resume and LinkedIn profile.
 
 
-[**FLW Unit 3 Guide**]()
+[**FLW Unit 3 Guide**](https://docs.google.com/document/d/1O9ltusTaB3GD2BlbMkJLLX-yLNmRPt0VAKTsVGrsm_4/edit)
 ## Sessions
 
 |                                                Session Slides                                                 | Professionals will be able to ..._                                                            |
