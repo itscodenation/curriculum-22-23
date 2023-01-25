@@ -5,7 +5,7 @@ In this unit, coders will work in groups to build a project using React. Their t
 ## Sessions 
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
-|[**1**]()|<ul><li>Explain the purpose of the React framework.</li></ul>|
+|[**1**](https://docs.google.com/presentation/d/1z3-sA0Opzt79SRh6AREtTAz2lydmNGyGy55366T8vB0/edit?usp=share_link)|<ul><li>Explain the purpose of the React framework.</li></ul>|
 |[**2**]()|<ul><li>Create and render a React component with props to pass data between components</li><li>Write JSX</li></ul> |
 |[**3**]()|<ul><li>**Review:** Create and render a React component with props to pass data between component, and writing JSX</li></ul>|
 |[**4**]()|<ul><li>Use and update state</li></ul>|
