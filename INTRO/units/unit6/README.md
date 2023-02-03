@@ -7,7 +7,7 @@
 | [**3**](https://docs.google.com/presentation/d/1Lc_zR8wiOHXnWsjp7zDJadij56ndu6OtHD6zegac0h0/edit#slide=id.gf44005cbe9_0_599) |   45  |**Lab Day**</br>Create an array and retrieve it's value using the array index    |
 | [**4**](https://docs.google.com/presentation/d/1SyjoCj1_9ZLqytXwfNiVR0ZoT4BBcsemJNCBgpjZwy8/edit#slide=id.g801a20f61f_0_262) |   45  |**Content-Only Day**</br>Iterate over an array using loops   |
 | [**5**](https://docs.google.com/presentation/d/15yxImj8L2Z3Wgo2mKxjrSIdsUaCiJUsSXvcBOBNoSXA/edit#slide=id.g801a20f61f_0_262) |   45  |**Review Day**</br> Review how to iterate over arrays using loops.</br>Use the insertAdjacentHTML method to append elements to a webpage. |
-| [**6**]() |   45  |**Content-Only Day**</br>Use array methods and properties   |
+| [**6**](https://docs.google.com/presentation/d/1r8ZevW3zjSWJzkbbKMYBQKaTelsf6KS2ik-o5Ds2eEQ/edit#slide=id.g801a20f61f_0_262) |   45  |**Content-Only Day**</br>Use array methods and properties   |
 | [**7**]() |   45  |**Full Lab Day**</br>Develop their  project by adding loops and array methods     |
 | [**8**]() |   45  |**Full Lab Day**</br>Develop their  project by adding loops and array methods       |
 | [**9**]() |   45  |Demonstrate their coding skills by completing a coding challenge assessing Unit 6 concepts     |
