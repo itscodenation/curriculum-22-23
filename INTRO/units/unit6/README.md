@@ -1,5 +1,5 @@
 # Unit 6: Arrays and Loops
-[**Unit 6 Objectives & Lesson Plans**]()
+[**Unit 6 Objectives & Lesson Plans**](https://docs.google.com/document/d/1Gri4vqCtE0I7U71IJYysSYDb8G8DklbbFqCZsKriEaU/edit)
 |                                                        Lesson                                                         | Minutes | Objectives <br> _Coders will ..._                                                 |
 | :-----: | :-------------------------------------------------------------------------------- |------|
 | [**1**](https://docs.google.com/presentation/d/1hknpt9zuaaNIRWDRFtgWSVFnt8g_tVk_momqL3bkrQw/edit#slide=id.g13ad176d0b1_0_0) |   45    |**Entry Day**</br>Learn about the Unit 6 project</br>Complete project plan                       |
