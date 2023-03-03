@@ -9,12 +9,12 @@ In this unit, students will collaborate with a group to create a project for a c
 
 |                                                       Session Slides                                                       | _Coders will be able to ..._                                                                                                                                      |
 | :------------------------------------------------------------------------------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**1**]() |Professional Skills Spotlight: Refine their Linkedin and resumes.</br>Professional Skills Spotlight: Engage in networking with other professionals.</br>Professional Skills Spotlight: Articulate a pathway to a career in technology by participating in a panel  |
-| [**2**]() |Collaborate with peers to wireframe and plan a client project |
-| [**3**]() |Engage in sustained coding and apply technical skills to develop client project|
+| [**1**](https://docs.google.com/presentation/d/1bS_vCETK7QzCK1zT-XojQ3G3IVMhpJ9yORsS2CW5hLc/edit#slide=id.g13edbada7f2_0_645) |Professional Skills Spotlight: Refine their Linkedin and resumes.</br>Professional Skills Spotlight: Engage in networking with other professionals.</br>Professional Skills Spotlight: Articulate a pathway to a career in technology by participating in a panel  |
+| [**2**](https://docs.google.com/presentation/d/1YgrAm33ZELpcMqpppL_4xsP1CXHQzrxDpdV9keoREHE/edit#slide=id.g13edbada7f2_0_645) |Collaborate with peers to wireframe and plan one of three Code Nation based client projects |
+| [**3**](https://docs.google.com/presentation/d/1Mp9C5s373VR1AcbjXmVt30-3pvR3UupAVXYHxe6Ttw8/edit#slide=id.g13edbada7f2_0_645) |Make an API request and handle a JSON response|
 | [**4**]() | Engage in sustained coding and apply technical skills to develop client project|
 | [**5**]() | Engage in sustained coding and apply technical skills to develop client project|
-| [**6**]() |Make an API request and handle a JSON response|
+| [**6**]() | Engage in sustained coding and apply technical skills to develop client project|
 | [**7**]() |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
 
 ---
