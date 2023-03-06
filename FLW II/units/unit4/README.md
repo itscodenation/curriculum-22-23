@@ -6,8 +6,7 @@ Capstone time! In this unit, coders will work in pairs or groups to implement cr
 ## Sessions 
 |Session Slides|*Coders will ...*|
 |:-------:|-------|
-|**[1](https://docs.google.com/presentation/d/1bS_vCETK7QzCK1zT-XojQ3G3IVMhpJ9yORsS2CW5hLc/edit?usp=share_link)**| <ul><li>Refine their resumes and LinkedIn profiles </li> <li>Learn about pathways and opportunities in the tech industry by participating in a Career Panel!
-</li> <li>Engage in networking with tech professionals</li></ul>|
+|**[1]()**|<ul><li>Set up a React App. </li><li>Explore React boilerplate code. </li>|
 |**[2]()**|<ul><li>Set up a React App. </li><li>Explore React boilerplate code. </li>|
 |**[3]()**|<ul><li>Design and implement a data model. </li></ul> |
 |**[4]()**|<ul><li>Identify props. </li><li>Explain why props are used in React components. </li><li>Use multiple props in a React component. </li></ul> |
