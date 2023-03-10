@@ -2,7 +2,7 @@
 [**Unit 7 Objectives & Lesson Plans**]()
 |                                                 Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                    |
 | :-----: | :------------------------------------------------------------------- |:-----|                                                 
-|[**1**]()     |   45    |  Celebrate their accomplishments and growth by participating in an end of year celebration               |
+|[**1**](https://docs.google.com/presentation/d/1u0oAM8XpUVXR25yy5dOj42mOSxUCVdaW6or86ROkDh0/edit#slide=id.g1628341b50a_0_703)     |   45    |  Celebrate their accomplishments and growth by participating in an end of year celebration <br> Present the final project they created with their peers and export it to Github               |
 
 
 
