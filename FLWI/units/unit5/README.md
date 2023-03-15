@@ -15,7 +15,7 @@ In this unit, students will collaborate with a group to create a project for a c
 | [**4**](https://docs.google.com/presentation/d/1Z0AnqRpSs_soS5oQgjVgg7OKKapNVa0f-uOk1LZQ--8/edit?usp=share_link) | Engage in sustained coding and apply technical skills to develop client project|
 | [**5**](https://docs.google.com/presentation/d/1eFVRpwu0YaUzkU6GI5EO3Nhl1ZKpxRUuIjKQGDeIZz0/edit?usp=share_link) | Engage in sustained coding and apply technical skills to develop client project|
 | [**6**](https://docs.google.com/presentation/d/100XcbixBQy5gdzVSAOjnJyZs77mylq2ZK33N91pcZ6M/edit?usp=share_link) | Engage in sustained coding and apply technical skills to develop client project|
-| [**7**]() |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
+| [**7**](https://docs.google.com/presentation/d/1vOrvYctyw0l5JK-rWpuk1mXAZDSDwaBh6nd6UGdjJrk/edit#slide=id.g21c40a0fb57_0_677) |Complete their client project/ Prepare a presentation to demo their project</br>Professional Skills Highlight: Prepare an effective presentation |
 
 ---
 ## <h3 align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQPPd3u1y_vV9426DjRjgzQHrzsMAIbdsGCxEU5uRj3bTleQ/viewform?usp=sf_link">Submit Your Feedback and Ideas</a></h3>
