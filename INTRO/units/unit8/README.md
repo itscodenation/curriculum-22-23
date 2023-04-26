@@ -3,7 +3,7 @@
 
 |                                                    Lesson                                                     | Minutes | Objectives <br> _Coders will ..._                                                         |
 | :-----: | :---------------------------------------------------------------------------------------- |:----|
-| [**1**]() |   45    |**Entry Day**</br>Learn about the Unit 8 project</br>Complete project plan                       |
+| [**1**](https://docs.google.com/presentation/d/1rJDpPbwd1rS8-NrrS8gISlQzDCfek7ZIgnp_h_FHbKw/edit#slide=id.g143a898e5ec_0_651) |   45    |**Entry Day**</br>Declare a function that returns a value.                     |
 | [**2**]() |   45    |**Full Lab Day**</br> Customize starter code for Unit 8 project.  |
 | [**3**]() |   45  |**Content-Only Day**</br>Identify the purpose of a function</br>Break down large pieces of code into functions  |
 | [**4**]() |   45  |**Content-Only Day**</br>Declare basic functions that return a value    |
