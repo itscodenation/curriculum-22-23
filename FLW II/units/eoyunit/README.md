@@ -8,7 +8,7 @@ In this unit, coders will close out the year by polishing off their portfolios, 
 
 |                                                Session Slides                                                 | _Coders will be able to ..._                                                                                                                                       | External Resources |
 | :-----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------: |
-|[**1**]()| <ul><li>Demonstate their technical ability through a HackerRank assessment.</li> |
+|[**1**](https://docs.google.com/presentation/d/1Wwjb2-fU5CR_mp62knJCRUmXCGQ9420OBQJBKgmW7pY/edit#slide=id.g13ceb08e073_0_0)| <ul><li>Demonstate their technical ability through a HackerRank assessment.</li> |
 [**2**]()|<ul><li>Practice conducting a technical interview. </li><li>Practice presenting their Capstone project.</li><li>Update work products (resume, portfolio, and LinkedIn).</li></ul> |  
 [**3**](https://docs.google.com/presentation/d/1bgTkBWOs6GIk-WSqvwEjp-X9zYHbUgczILvmdcn46Hk/edit#slide=id.gc3d14b0c1b_0_356)             |<ul><li> Deliver an engaging presentation.</li><li>Celebrate the Fellowship II experience.</li></ul> |                                                                                                                                 
 ---
