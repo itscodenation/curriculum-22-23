@@ -10,8 +10,8 @@ Students will take an End of Year HackerRank coding challenge, and present their
 
 |                                                       Session Slides                                                       | _Coders will be able to ..._                                 |
 | :------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------ |
-| [**1**]() | Demonstrate their technical ability by participating in a coding challenge         |
-|       [**2**]()        | Deliver an engaging presentation of their client webapp/ Celebrate the end of the year |
+| [**1**](https://docs.google.com/presentation/d/1X6fiMMpnP8LcV4BOWNGtua8h7e9Db2RUytRd4fVCryY/edit) | Demonstrate their technical ability by participating in a coding challenge         |
+|       [**2**](https://docs.google.com/presentation/d/1ifmJeK8ClJis-bHVXnZVQ8j05pkn7obOfDj9w4_ZdaA/edit)        | Deliver an engaging presentation of their client webapp/ Celebrate the end of the year |
 
 
 ---
